@@ -1,0 +1,4 @@
+# Staatsvertrag zwischen den Kantonen Obwalden und Nidwalden betreffend die Nutzung der Engelbergeraa
+vom 27.04.1959
+Zwischen dem Kanton Obwalden, vertreten durch den Regierungsrat, und dem Kanton Nidwalden, vertreten durch den Regierungsrat, wird in Ausübung der den beiden Kantonen über die Gewässer der Engelberger-Aa und ihrer Seitenbäche sowie des Trübsees zustehenden Gewässerhoheit, in der Absicht, eine möglichst umfassende und zweckmässige Nutzbarmachung der Wasserkräfte dieser interkantonalen Gewässer zu sichern, in Anwendung von Art. 7 Abs. 2 und 24bis der Bundesverfassung, sowie des Bundesgesetzes über die Nutzbarmachung der Wasserkräfte vom 22. Dezember 1916 / 20. Juni 1952, gestützt auf Art. 12, 32 lit. h, 34 lit. d und q der Verfassung des Kantons Unterwalden ob dem Wald und Art. 16, 57 Ziff. 4, 60 Ziff. 3 und 20 der Verfassung des Kantons Unterwalden nid dem Wald,
+vereinbart:
