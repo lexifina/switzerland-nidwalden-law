@@ -1,0 +1,2 @@
+# Art. 8g Legitimation von Behörden und Ämtern
+1 Entscheide gemäss Art. 5 Bst. k sind den betroffenen Regierungen der Konkordatskantone schriftlich zu eröffnen. Der Regierungsrat ist berechtigt gegen Entscheide der Aufsichtskommission innert 20 Tagen ab Zustellung beim Verwaltungsgericht des jeweiligen Konkordatskantons Beschwerde zu erheben. Im Übrigen sind die Verfahrensbestimmungen des jeweiligen Konkordatskantons anwendbar
