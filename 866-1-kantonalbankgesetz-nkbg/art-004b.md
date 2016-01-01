@@ -1,0 +1,5 @@
+# Art. 4b b) Partizipationskapital
+1 Das Partizipationskapital wird durch die Ausgabe von Partizipationsscheinen direkt oder unter Ausschluss des Bezugsrechts, über eine Wandel- oder Optionsanleihe beschafft. Der Nominalwert des Partizipationskapitals darf höchstens einen Viertel des Nominalwertes des Dotationskapitals erreichen, vorbehalten bleibt die verhältnismässige Anpassung dieser Begrenzung, wenn Dotationskapital in Partizipationskapital umgewandelt wird.
+2 Die Partizipationsscheine geben Anrecht auf eine Dividende und auf den Bezug neuer Partizipationsscheine, beinhalten aber keine Mitwirkungsrechte.
+3 Der Bankrat beschliesst die Erhöhung des Partizipationskapitals im Rahmen von Abs. 1. Er legt die Anzahl, den Nennwert und das darauf zu leistende Agio gestützt auf den Marktwert sowie den Beginn der Dividendenberechtigung fest.
+4 Über die Umwandlung von Dotationskapital in Partizipationskapital entscheidet der Landrat auf Antrag des Regierungsrates. Nach einer Umwandlung von Dotationskapital in Partizipationskapital darf das Partizipationskapital höchstens die Hälfte des Dotationskapitals erreichen.
