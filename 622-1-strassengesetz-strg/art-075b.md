@@ -1,0 +1,2 @@
+# Art. 75b 3. Radwege auf öffentlichen Strassen privater Eigentümer und Privatstrassen
+1 Der im Wegrechtsvertrag mit den Eigentümerinnen und Eigentümern von öffentlichen Strassen privater Eigentümer sowie von Privatstrassen beziehungsweise im Enteignungsbeschluss festgelegte Kostenanteil der öffentlichen Hand am Ausbau von Radwegen geht mit 65 Prozent zulasten des Kantons und mit 35 Prozent zulasten der Gemeinde.
