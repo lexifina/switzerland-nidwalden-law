@@ -1,0 +1,4 @@
+# § 9a 2. Teilnahme
+1 Die Anzahl der Jägerinnen und Jäger, die zur Auslosung zugelassen werden, entspricht der Zahl der zu erlegenden Steinböcke und Steingeissen; die gesuchstellenden Jägerinnen und Jäger sind in der Reihenfolge gemäss § 9 zur Auslosung zuzulassen.
+2 Gibt es zu viele gesuchstellende Jägerinnen und Jäger derselben Auslosungskategorie, haben diejenigen Jägerinnen und Jäger ein Vorrecht, die bis anhin mehr Hochwildjagden in Nidwalden ausgeübt haben; bei gleicher Anzahl Hochwildjagden richtet sich das Vorrecht nach dem Alter in absteigender Reihenfolge. Bei der Zulassung zur Auslosung gemäss § 9 Abs. 1 Ziff. 4 haben diejenigen Jägerinnen und Jäger ein Vorrecht, die weniger Steinwild geschossen haben.
+3 Die zugelassenen Jägerinnen und Jäger haben persönlich an der Auslosung teilzunehmen.
