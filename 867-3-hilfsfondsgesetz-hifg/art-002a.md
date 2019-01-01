@@ -1,0 +1,4 @@
+# Art. 2a Hochwasserentlastungsgebiet
+1 Als Hochwasserentlastungsgebiet wird ein Perimeter bezeichnet, in welchem bei einem unter 300-jährlichen Hochwasserereignis zum Schutz von gefährdeten Gebieten, für die ein überwiegendes Schutzinteresse besteht, aufgrund eines Entlastungsbauwerkes insbesondere Wasser und Geschiebe gezielt abgeleitet beziehungsweise eingestaut werden.
+2 Eine Liegenschaft oder ein Teil einer Liegenschaft befindet sich nur dann innerhalb eines Hochwasserentlastungsgebietes, wenn dieses Gebiet im Rahmen eines Bauprojektes des Kantons oder einer Gemeinde mit Zustimmung der zuständigen Direktion als solches bezeichnet wurde.
+3 Hochwasserentlastungsgebiete, die vor dem Inkrafttreten der Gesetzesänderung vom 19. September 2007 im Rahmen des entsprechenden Baubewilligungsverfahrens ausgeschieden wurden, werden als solche anerkannt.
