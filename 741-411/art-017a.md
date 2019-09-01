@@ -1,0 +1,2 @@
+# § 17a Weiterbelastung der von der Oberaufsicht erhobenen Aufsichtsabgabe
+1 Die Aufsichtsbehörde überwälzt die nach Art. 64c Abs. 2 lit. a BVG der Oberaufsicht geschuldeten Aufgabe auf die von ihr beaufsichtigten Vorsorgeeinrichtungen.
