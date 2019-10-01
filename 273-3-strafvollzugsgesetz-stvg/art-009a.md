@@ -1,0 +1,2 @@
+# Art. 9a Datenübermittlung an Fachpersonen
+1 Fachpersonen, die mit der Begutachtung oder mit Vollzugsaufgaben über eine verurteilte oder sich im vorzeitigen Vollzug befindliche Person betraut sind, dürfen in Vollzugsakten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, Einsicht nehmen, wenn dies zur Erfüllung ihrer gesetzlichen oder vertraglichen Pflicht erforderlich ist.
