@@ -1,0 +1,2 @@
+# Art. 93b 2. Investitionsbeiträge an Pflegeheime
+1 Wurden an Pflegeheime vor Inkrafttreten der Änderung vom 22. Oktober 2014 Investitionsbeiträge ausgerichtet, gelten für diese Beiträge weiterhin die Bestimmungen des Gesetzes vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz) und der Vollziehungsverordnung vom 28. Mai 1991 zum Sozialhilfegesetz betreffend die Leistungen von Investitionsbeiträgen an Heime (Sozialhilfeverordnung 2), insbesondere die Bestimmungen zur Zweckentfremdung.

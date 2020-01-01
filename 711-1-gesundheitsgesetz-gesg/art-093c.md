@@ -1,0 +1,4 @@
+# Art. 93c 3. bedingt rückzahlbare, zinslose Darlehen an Heime für Betagte
+1 Wurden an Heime für Betagte vor Inkrafttreten der Änderung vom 22. Oktober 2014 bedingt rückzahlbare, zinslose Darlehen ausgerichtet, gelten unter Vorbehalt von Abs. 2 und 3 weiterhin die Bestimmungen des Gesetzes vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz) und der Vollziehungsverordnung vom 28. Mai 1991 zum Sozialhilfegesetz betreffend die Leistungen von Investitionsbeiträgen an Heime (Sozialhilfeverordnung 2).
+2 Die bisherigen Bestimmungen kommen nur für diejenigen Pflegebetten zur Anwendung, die vor Inkrafttreten dieses Gesetzes erstellt wurden.
+3 Die Amortisation der Darlehen hat ab Inkrafttreten der Änderung vom 22. Oktober 2014 in jährlichen Raten zu erfolgen. Die Raten sind derart zu bemessen, dass die Darlehen per 31. Dezember 2032 vollständig getilgt sind. § 16 der Sozialhilfeverordnung 2 ist nicht mehr anwendbar.
