@@ -1,0 +1,4 @@
+# § 36m 2. integrierte Sonderschulung
+1 Schülerinnen und Schüler, welche nach dem Modell der integrierten Sonderschulung in den Gemeindeschulen unterrichtet werden, müssen mindestens zur Hälfte der wöchentlichen Unterrichtszeit am Regelklassenunterricht teilnehmen.
+2 Für die integrierte Sonderschulung von Kindern und Jugendlichen mit einer Behinderung stehen als verstärkte Massnahme höchstens 10 Lektionen Unterstützung je Woche zur Verfügung. Diese Unterstützung kann Schulische Heilpädagogik, Therapie (Logopädie und Psychomotorik) und persönliche Assistenz beinhalten.
+3 Für die Koordination bei der Integration von Schülerinnen und Schülern, welche nach dem Modell der integrierten Sonderschulung in den Gemeindeschulen unterrichtet werden, wird den betroffenen Klassenlehrpersonen eine Lektion im Rahmen der Unterrichtsverpflichtung angerechnet. Die Kosten dieser Lektion trägt der Kanton.
