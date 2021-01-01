@@ -1,0 +1,3 @@
+# Art. 83a Vereinfachter Informationsaustausch
+1 Für den vereinfachten Informationsaustausch mit Schengen-Staaten gelten für alle kantonalen Strafverfolgungsbehörden die Bestimmungen des Bundesgesetzes über den Informationsaustausch zwischen den Strafverfolgungsbehörden des Bundes und denjenigen der anderen Schengen-Staaten (Schengen-Informationsaustausch-Gesetz, SIaG) sinngemäss.
+2 Die Polizei nimmt die Aufgaben der kantonalen Anlaufstelle wahr. Sie tritt in dringlichen Fällen für andere Strafverfolgungsbehörden auf oder holt stellvertretend für die ersuchte Behörde die erforderliche Zustimmung einer anderen kantonalen Justizbehörde ein.
