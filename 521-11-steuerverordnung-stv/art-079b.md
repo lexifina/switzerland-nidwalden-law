@@ -1,0 +1,2 @@
+# § 79b Veranlagungsvorschlag und ‑entscheid
+1 Bei Abweichungen von der Steuererklärung erstellt die zuständige Veranlagungsinstanz eine spezifizierte Aufstellung über das steuerbare Einkommen und das steuerbare Vermögen oder über den steuerbaren Gewinn und das steuerbare Kapital. Sie unterbreitet die Aufstellung der steuerpflichtigen Person insbesondere bei wesentlichen Abweichungen als Veranlagungsvorschlag oder eröffnet sie als Veranlagungsentscheid. Dasselbe gilt sinngemäss für das Nachsteuerverfahren.

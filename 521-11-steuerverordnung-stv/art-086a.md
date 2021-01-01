@@ -1,0 +1,2 @@
+# § 86a Steuererlass
+1 Steuerpflichtige Personen, die am Ende der Steuerperiode beziehungsweise am Ende der Steuerpflicht in einem Heim wohnen und Ergänzungsleistungen zur AHV/IV beziehen oder die dauernd wirtschaftliche Sozialhilfe beziehen und ein Reinvermögen von weniger als Fr. 37'500.– (Alleinstehende) beziehungsweise Fr. 60'000.– (Verheiratete) besitzen, haben Anspruch auf vollständigen Erlass der laufenden Steuern. Das steuerbare Einkommen wird mit Null veranlagt.
