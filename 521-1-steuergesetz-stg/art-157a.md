@@ -1,0 +1,3 @@
+# Art. 157a 3. bei Unternehmensfortführung a) Voraussetzungen
+1 Die Erbschafts- und Schenkungssteuer entfällt, soweit der Empfängerin oder dem Empfänger Geschäftsvermögen zugewendet wird, das ganz oder vorwiegend der selbständigen Erwerbstätigkeit sowie der Unternehmensfortführung dient.
+2 Ebenso entfällt die Steuer, soweit der Empfängerin oder dem Empfänger eine Beteiligung an einer Kapitalgesellschaft oder Genossenschaft, die einen Geschäftsbetrieb führt, zugewendet wird und die Empfängerin oder der Empfänger im Geschäftsbetrieb mitwirkt und soweit die Zuwendung der Unternehmensfortführung wie auch der Förderung und Unterstützung von Mehrheitsverhältnissen dient.

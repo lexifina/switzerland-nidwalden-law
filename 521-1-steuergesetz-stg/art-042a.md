@@ -1,0 +1,3 @@
+# Art. 42a 3. vereinfachtes Abrechnungsverfahren
+1 Für kleine Arbeitsentgelte aus unselbstständiger Erwerbstätigkeit ist die Steuer ohne Berücksichtigung der übrigen Einkünfte, allfälliger Berufskosten und Sozialabzüge zu einem Satz von 4.5 Prozent zu erheben; Voraussetzung ist, dass die Arbeitgeberin oder der Arbeitgeber die Steuer im Rahmen des vereinfachten Abrechnungsverfahrens nach Art. 2 und 3 des Bundesgesetzes gegen die Schwarzarbeit entrichtet. Damit sind die Einkommenssteuern abgegolten.
+2 Das Verfahren richtet sich sinngemäss nach Art. 37a Abs. 2–5 des Bundesgesetzes über die direkte Bundessteuer.

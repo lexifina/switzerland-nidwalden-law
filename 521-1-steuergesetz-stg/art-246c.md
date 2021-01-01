@@ -1,0 +1,2 @@
+# Art. 246c Sicherstellung der für die Vermittlungstätigkeit an Grundstücken geschuldeten Steuer
+1 Vermittelt eine natürliche oder juristische Person, die in der Schweiz weder Wohnsitz noch Sitz oder die tatsächliche Verwaltung hat, ein im Kanton gelegenes Grundstück, so kann die zuständige Veranlagungsinstanz von der Käuferin oder dem Käufer beziehungsweise von der Verkäuferin oder dem Verkäufer verlangen, 3 Prozent der Kaufsumme als Sicherheit des für die Vermittlungstätigkeit geschuldeten Steuerbetrages zu hinterlegen.

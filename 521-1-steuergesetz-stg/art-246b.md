@@ -1,0 +1,3 @@
+# Art. 246b Eintrag im Grundbuch
+1 Veräussert eine im Kanton ausschliesslich aufgrund von Grundeigentum steuerpflichtige natürliche oder juristische Person ein im Kanton gelegenes Grundstück, so darf die Erwerberin oder der Erwerber im Grundbuch nur mit schriftlicher Zustimmung des Kantonalen Steueramtes als Eigentümerin oder Eigentümer eingetragen werden.
+2 Das kantonale Steueramt bescheinigt der Veräusserin oder dem Veräusserer zuhanden des Grundbuchverwalters ihre Zustimmung zum Eintrag, wenn die mit dem Besitz und der Veräusserung des Grundstückes in Zusammenhang stehende Steuer bezahlt oder sichergestellt ist oder wenn feststeht, dass keine Steuer geschuldet ist oder die Veräusserin oder der Veräusserer hinreichend Gewähr für die Erfüllung der Steuerpflicht bietet.
