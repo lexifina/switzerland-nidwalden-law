@@ -1,0 +1,9 @@
+# Art. 28i 2. Pflegefachpersonen und Organisationen der Krankenpflege und Hilfe zu Hause a) Norm-Pflegetaxe
+1 Der Regierungsrat legt je Kalenderjahr eine für alle als Leistungserbringer anerkannten Pflegefachpersonen sowie Organisationen der Krankenpflege und Hilfe zu Hause verbindliche Taxe fest:
+1. für ambulante Pflegeleistungen bei Krankheit (Norm-Pflegetaxe);
+2. für bestimmte ambulante Pflegeleistungen bei Krankheit, die mit einem erheblichen Mehraufwand verbunden sind (Zuschläge). Der Regierungsrat legt die zuschlagsberechtigten Leistungen und Leistungserbringer in einer Verordnung fest.
+2 Der Regierungsrat bestimmt:
+1. bei ambulanten Pflegeleistungen der Pflegefachpersonen sowie der Organisationen der Krankenpflege und Hilfe zu Hause für jede Art der Leistung gemäss Art. 7 Abs. 2 lit. a–c KLV eine Norm-Pflegetaxe. Die Vergütung richtet sich nach dem Zeitaufwand;
+2. bei ambulanten Pflegeleistungen der Pflegeheime, die als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, für jede Art der Leistung gemäss Art. 7 Abs. 2 lit. a–c KLV eine Norm-Pflegetaxe, die nicht höher als 90 Prozent derjenigen gemäss Ziff. 1 sein darf. Die Vergütung richtet sich nach dem Zeitaufwand;
+3. bei ambulanten Pflegeleistungen der Pflegefachpersonen sowie der Organisationen der Krankenpflege und Hilfe zu Hause für jede zuschlagsberechtigte Leistung eine Taxe; der Regierungsrat kann in einer Verordnung für bestimmte Leistungen nicht pauschalisierte Vergütungen (Einzelvergütungen) vorsehen, wenn dies sachlich notwendig ist.
+3 Die Pflegefachpersonen sowie Organisationen der Krankenpflege und Hilfe zu Hause dürfen für ambulante Pflegeleistungen keine die Pflegetaxe übersteigenden Vergütungen in Rechnung stellen.
