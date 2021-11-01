@@ -1,0 +1,3 @@
+# Art. 20a 2. Ausrüstungspflicht bei wesentlichen Erneuerungen
+1 Bestehende Gebäude mit zentraler Wärmeversorgung für mehr als vier Nutzeinheiten sind bei einer Gesamterneuerung des Heizungssystems mit den Geräten zur Erfassung des individuellen Heizwärmeverbrauchs beziehungsweise bei einer Gesamterneuerung des Warmwassersystems mit den Geräten zur Erfassung des individuellen Warmwasserverbrauchs auszurüsten.
+2 Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung je Gebäude auszurüsten, wenn an einem oder mehreren Gebäuden die Gebäudehülle zu über 75 Prozent saniert wird.
