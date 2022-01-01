@@ -1,7 +1,7 @@
-## 1 Allgemeine Bestimmungen
-## 2 Studierende
-## 3 Hochschulzugang und Gleichbehandlung
-## 4 Beiträge
-## 5 Vollzug
-## 6 Rechtspflege
-## 7 Schlussbestimmungen
+## 1. ALLGEMEINE BESTIMMUNGEN
+## 2. BEITRAGSBERECHTIGUNG
+## 3. BEITRAGSBEMESSUNG UND ZAHLUNGSPFLICHT
+## 4. HOCHSCHULZUGANG UND GLEICHBERECHTIGUNG
+## 5. VOLLZUG
+## 6. SCHLUSSBESTIMMUNGEN
+## A1 Anhang 1: Bezeichnung der Kostengruppen und Zuordnung der Fachbereiche gemäss Art. 9 Absatz 2 der Vereinbarung
