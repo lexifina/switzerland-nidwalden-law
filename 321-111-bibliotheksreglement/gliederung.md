@@ -1,5 +1,6 @@
-## 1 Zulassung und Ausschluss
-## 2 Bibliotheksbenutzung
-## 3 Allgemeine Bestimmungen
-## 4 Schlussbestimmungen
-## A1 Anhang Gebührenordnung
+## 1 Allgemeine Bestimmungen
+## 2 Ausleihe
+## 3 Weitere Dienstleistungen
+## 4 Gebühren
+## 5 Weitere Bestimmungen
+## A1 Anhang 1: Gebührentarif
