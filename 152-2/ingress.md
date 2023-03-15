@@ -2,3 +2,4 @@
 vom 13.11.2001
 Die Kantone Obwalden und Nidwalden
 vereinbaren:
+1 Organisationsform, Aufgaben und Betriebsmittel
