@@ -1,7 +1,8 @@
-## 1 Geltungsbereich
-## 2 Probezeit und Beendigung des Arbeitsverhältnisses
-## 3 Einsatz und Weiterbildung des Personals
-## 4 Arbeitszeit, Freizeit, Ferien und Urlaub
-## 5 Lohn
-## 6 Versicherungen
-## 7 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Arbeitszeitregelung
+## 3 Lohn
+## 4 Freizeit, bezahlter Urlaub und Ferien
+## 5 Arbeitsbedingungen, Fürsorge und Dokumentationspflichten
+## 6 Aus- und Weiterbildung und Nebenbeschäftigung
+## 7 Beendigung des Arbeitsverhältnisses
+## 8 Übergangsbestimmung
