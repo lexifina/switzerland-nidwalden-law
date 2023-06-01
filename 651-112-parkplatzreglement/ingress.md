@@ -2,5 +2,5 @@
 (Parkplatzreglement)
 vom 21.07.1997
 Der Regierungsrat von Nidwalden,
-gestützt auf Art. 65 Abs. 2 Ziff. 10 der Kantonsverfassung, Art. 65 Abs. 3 des Strassengesetzes und § 1 der Vollziehungsverordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr,
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 15 Abs. 3 des Einführungsgesetzes vom 22. Oktober 2008 zur Bundesgesetzgebung über den Strassenverkehr (Kantonales Strassenverkehrsgesetz, kSVG),
 beschliesst:
