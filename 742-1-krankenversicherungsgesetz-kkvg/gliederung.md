@@ -3,6 +3,7 @@
 ## 3 Obligatorische Krankenpflegeversicherung
 ### 3.1 Versicherungspflicht
 ### 3.2 Nichtbezahlung von Prämien und Kostenbeteiligungen
+### 3.3 Zulassung von Leistungserbringern
 ## 4 Prämienverbilligung
 ### 4.1 Anspruch
 ### 4.2 Verfahren
