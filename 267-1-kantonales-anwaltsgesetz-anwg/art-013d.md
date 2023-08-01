@@ -1,0 +1,3 @@
+# Art. 13d Verfahren bei Tod oder Handlungsunfähigkeit
+1 Anwältinnen und Anwälte haben für den Fall ihres Todes oder ihrer dauernden Handlungsunfähigkeit vorbereitende Handlungen zu treffen, damit laufende Aufträge in diesen Fällen fortgeführt werden können.
+2 Wurden keine vorbereitenden Handlungen getroffen und kann die Geschäftstätigkeit nicht mittels Substitution weitergeführt werden, beauftragt die Anwaltskommission eine Anwältin oder einen Anwalt, im Interesse der Klientschaft sowie unter Wahrung des Berufsgeheimnisses die laufenden Aufträge vorzunehmen und die Kanzlei abzuwickeln. Die Anwältin oder der Anwalt handelt in eigener Verantwortung, aber auf Rechnung und Kosten der abzuwickelnden Anwaltskanzlei.
