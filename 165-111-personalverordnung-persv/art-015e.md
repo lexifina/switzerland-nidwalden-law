@@ -1,0 +1,5 @@
+# § 15e 2. Dauer, Kündigung
+1 Die Telearbeitsvereinbarung gilt grundsätzlich unbefristet.
+2 Jede Partei kann die Vereinbarung in den ersten drei Monaten jederzeit mit sofortiger Wirkung künden. Danach ist eine Kündigung mit einer Frist von einem Monat auf das Ende eines Monats möglich.
+3 Aus wichtigem Grund oder im gegenseitigen Einvernehmen kann die Vereinbarung jederzeit mit sofortiger Wirkung gekündigt beziehungsweise aufgelöst werden.
+4 Die Kündigung beziehungsweise Auflösung der Telearbeitsvereinbarung hat schriftlich zu erfolgen.

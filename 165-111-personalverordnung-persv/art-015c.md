@@ -1,0 +1,8 @@
+# § 15c Voraussetzungen, Umfang
+1 Die vorgesetzte Person kann Telearbeit bewilligen, wenn:
+1. die Tätigkeit für Telearbeit geeignet ist und in Bezug auf Effizienz, Effektivität und Qualität wie am regulären Arbeitsplatz erbracht werden kann;
+2. die um Telearbeit ersuchende Person mit ihrem Tätigkeitsgebiet vertraut ist und ihre Arbeit selbstständig und zuverlässig erledigen kann;
+3. der Telearbeitsplatz ein ungestörtes und effizientes Arbeiten ermöglicht und die geltenden Bestimmungen des Datenschutzes, der Datensicherheit und der Schweigepflicht, des Arbeits- und Gesundheitsschutzes sowie die geltenden Weisungen eingehalten werden können;
+4. die Organisation und Arbeit in der Amtsstelle dadurch nicht wesentlich erschwert werden;
+5. allfällig eingesetzte elektronische Arbeitsmittel den sicherheitstechnischen Kriterien genügen.
+2 Vom vertraglich vereinbarten Beschäftigungsgrad können Mitarbeiterinnen und Mitarbeiter in der Regel höchstens 50 Prozent in Form von Telearbeit leisten.
