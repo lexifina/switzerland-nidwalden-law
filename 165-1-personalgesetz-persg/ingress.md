@@ -1,4 +1,4 @@
-# Gesetz über das öffentlichrechtliche Arbeitsverhältnis
+# Gesetz über das öffentlich-rechtliche Arbeitsverhältnis
 (Personalgesetz, PersG)
 vom 03.06.1998
 Der Landrat von Nidwalden,
