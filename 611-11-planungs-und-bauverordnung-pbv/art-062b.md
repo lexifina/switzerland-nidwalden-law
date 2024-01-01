@@ -1,0 +1,2 @@
+# § 62b Übergangsbestimmungen zur Änderung vom 12. Dezember 2023 betreffend die Bewilligung für Photovoltaik-Grossanlagen 1. Gegenstand
+1 Diese Übergangsbestimmungen regeln die Zuständigkeit und das Verfahren für die Bewilligung von Photovoltaik-Grossanlagen gemäss Art. 71a des eidgenössischen Energiegesetzes (EnG). Nicht erfasst sind Anschlussleitungen und Anlagenteile, die eine Genehmigung des Bundes bedürfen.
