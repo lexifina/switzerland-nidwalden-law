@@ -1,4 +1,4 @@
-# Vollzugsverordnung betreffend die Lehrpersonen
+# Verordnung betreffend die Lehrpersonen
 (Lehrpersonalverordnung, LPV)
 vom 24.06.2008
 Der Regierungsrat von Nidwalden,
