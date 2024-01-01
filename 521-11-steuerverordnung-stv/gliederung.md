@@ -8,7 +8,7 @@
 ### 3.1 Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
 ### 3.2 Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 ### 3.3 Gemeinsame Bestimmungen bezüglich der Erhebung der Quellensteuer
-### 3.4 Vereinfachtes Abrechnungsverfahren gemäss Art. 42a des Steuergesetzes,
+### 3.4 Vereinfachtes Abrechnungsverfahren gemäss Art. 42a des Steuergesetzes
 ### 4 Verkehrssteuern auf Grundstücken
 ## 5 Erbschafts- und Schenkungssteuern
 ## 6 Verfahrensrecht
