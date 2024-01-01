@@ -1,11 +1,6 @@
 ## 1 Organisation
-## 2 Fischereiberechtigung
-### 2.1 Allgemeines
-### 2.2 Patentfischerei
-### 2.3 Pachtfischerei
-## 3 Ausübung der Fischerei
-## 4 Fischereiwirtschaft
-## 5 Schutz der Fischerei
-## 6 Aufsicht über die Fischerei
-## 7 Strafbestimmungen
-## 8 Übergangs- und Schlussbestimmungen
+## 2 Gebühren und Pachtzinse
+## 3 Verfahren bei der Verpachtung
+## 4 Ausübung der Fischerei
+### 4.1 Pachtgewässer
+### 4.2 Sonderfänge
