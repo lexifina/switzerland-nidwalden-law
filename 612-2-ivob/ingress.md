@@ -1,3 +1,3 @@
 # Interkantonale Vereinbarung über das öffentliche Beschaffungswesen
 (IVöB)
-vom 25.11.1994
+vom 15.11.2019
