@@ -1,5 +1,5 @@
 # Art. 39a 2. Aufgaben
-1 Die Kommission erteilt die Zustimmung und Bewilligung gemäss Art. 18 Abs. 3.
+1 Die Kommission oder einzelne Mitglieder der Kommission können von der Fachstelle in fachlichen Fragen konsultiert werden.
 2 Sie stellt Antrag zu:
 1. Unterschutzstellungen;
 2. Grabungsschutzgebieten;

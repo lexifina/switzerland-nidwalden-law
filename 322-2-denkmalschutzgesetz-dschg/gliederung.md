@@ -5,6 +5,7 @@
 ### 4.1 Unterschutzstellung
 ### 4.2 Wirkungen der Unterschutzstellung
 ### 4.3 Entschädigung und Beiträge
+## 4a Schutzwürdige Objekte
 ## 5 Bodenaltertümer
 ## 6 Organisation
 ## 7 Finanzielle Bestimmungen
