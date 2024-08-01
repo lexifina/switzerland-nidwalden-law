@@ -1,6 +1,6 @@
-# Vollzugsverordnung über die prüfungsfreie Aufnahme in lehrbegleitende Berufsmittelschulen sowie in Fach-, Handels- und Wirtschaftsmittelschulen
-(Aufnahmeverordnung Berufsmittelschulen, AVBMS)
-vom 11.12.2007
+# Verordnung über die Aufnahme in schulisch organisierte Grundbildungen sowie in Fachmittelschulen
+(Aufnahmeverordnung SOG/FMS, AVSOG)
+vom 12.03.2024
 Der Regierungsrat von Nidwalden,
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung des Gesetzes vom 17. April 2002 über das Bildungswesen (Bildungsgesetz, BiG) und des Einführungsgesetzes vom 23. Januar 2008 zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 39 des Einführungsgesetzes vom 23. Januar 2008 zur Bundesgesetzgebung über die Berufsbildung (Kantonales Berufsbildungsgesetz, kBBG)
 beschliesst:

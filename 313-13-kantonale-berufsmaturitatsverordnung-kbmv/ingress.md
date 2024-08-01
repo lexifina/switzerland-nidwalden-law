@@ -1,4 +1,4 @@
-# Vollzugsverordnung über die Berufsmaturität
+# Verordnung über die Berufsmaturität
 (Kantonale Berufsmaturitätsverordnung, kBMV)
 vom 11.11.2014
 Der Regierungsrat von Nidwalden,
