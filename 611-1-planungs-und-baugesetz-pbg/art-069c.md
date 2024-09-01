@@ -4,4 +4,4 @@
 2. der Zonenzweck nicht wesentlich beeinträchtigt wird.
 2 Baubewilligungen in der Abflusswegzone bedürfen der Zustimmung der Direktion.
 3 Die Bestimmungen zur Abflusswegzone schränken die zulässige landwirtschaftliche Bewirtschaftung nicht weiter ein.
-4 In Sondernutzungsplanungsverfahren, Wasserbauverfahren gemäss der Wasserrechtsgesetzgebung und Baubewilligungsverfahren können die Abflusswege mit Zustimmung der Direktion abweichend von der Abflusswegzone festgelegt werden.
+4 Die Festlegung der Abflusswege richtet sich nach der Gewässergesetzgebung, wenn sie bei Verbauung oder Korrektion eines Gewässers abweichend von der Abflusswegzone festzulegen sind.

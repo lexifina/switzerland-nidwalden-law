@@ -1,3 +1,5 @@
 # Art. 122a Gewässerabstand
-1 Ist weder ein Gewässerraum noch ein Abflussweg beziehungsweise eine entsprechende Zone festgelegt, beträgt der von abflussverändernden Bauten freizuhaltende Abstand 7 m vom Gewässerrand; vorbehalten bleiben abweichende bundesrechtliche Bestimmungen.
-2 Die Baubewilligungsbehörde kann gemäss Art. 122 Abs. 1 Ausnahmen bewilligen.
+1 Ist weder ein Gewässerraum noch ein Abflussweg beziehungsweise eine entsprechende Zone festgelegt, gilt ein Gewässerabstand von 7 m vom Gewässerrand.
+2 Bauten und Anlagen innerhalb des Gewässerabstands sind nur zulässig, wenn:
+1. die Gewässerfunktionen nicht wesentlich beeinträchtigt werden; und
+2. die Direktion die Zustimmung erteilt.
