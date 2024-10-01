@@ -3,4 +3,4 @@
 2 Abflusskorridorzonen überlagern Nichtbauzonen; Gebiete in Bauzonen können überlagert werden, wenn sie:
 1. bereits vor Inkrafttreten dieser Bestimmung als Bauzonen ausgeschieden waren; und
 2. besonders gefährdet sind.
-3 Bei der Ausscheidung der Abflusskorridorzonen ist der Kataster der Gefahrengebiete und Abflusskorridore gemäss Art. 12a Wasserrechtsgesetz (WRG)25 zu berücksichtigen.
+3 Bei der Ausscheidung der Abflusskorridorzonen ist der Kataster der Gefahrengebiete und Abflusskorridore gemäss Art. 9 des Gewässergesetzes zu berücksichtigen.
