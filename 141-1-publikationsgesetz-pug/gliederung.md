@@ -1,7 +1,6 @@
-## 1 Amtliche Publikationsorgane
-### 1.1 Amtsblatt
-### 1.2 Gesetzessammlung
-### 1.3 Gemeinsame Bestimmungen
-## 2 Arten und Zeitpunkt der Veröffentlichung
-## 3 Publikationspflicht
-## 4 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Amtsblatt
+## 3 Chronologische Gesetzessammlung
+## 4 Systematische Gesetzessammlung
+## 5 Erlasse des Bundes
+## 6 Vollzugs- und Übergangsbestimmungen
