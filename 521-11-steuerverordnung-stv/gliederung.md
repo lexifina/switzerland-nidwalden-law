@@ -15,7 +15,7 @@
 ### 6.1 Organisation und Zuständigkeiten
 ### 6.2 Allgemeine Verfahrensgrundsätze
 ### 6.3 Veranlagung der Einkommens- und Vermögenssteuern beziehungsweise der Gewinn- und Kapitalsteuern
-### 6.4 Schatzungsverfahren
+### 6.4 Immobilienbewertung
 ### 6.5 Bezug
 ### 6.6 Elektronische Steuerakten
 ### 6.7 Archivierung von Steuerakten
@@ -32,3 +32,5 @@
 ### A1.7 Besondere Steuerwerte
 ### A1.8 Zinssätze
 ### A1.9 Quellensteuern
+### A2.0 Mietwertansätze
+### A2.1 Landwerte Grundstücke
