@@ -7,6 +7,7 @@
 ### 3.1 Informationsbericht zur Person und Personennachforschung
 ### 3.2 Personenkontrollen, Identitätsfeststellung und erkennungsdienstliche Behandlung
 ### 3.3 Polizeiliches Aufgebot und Befragung
+### 3.3a Bedrohungsmanagement
 ### 3.4 Wegweisung und Fernhaltung
 ### 3.5 Zu- und Rückführung
 ### 3.6 Polizeilicher Gewahrsam
