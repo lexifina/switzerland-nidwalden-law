@@ -11,6 +11,7 @@
 ### 4.3 Verhütung und Behebung von Waldschäden
 ## 5 Förderungsmassnahmen
 ### 5.1 Ausbildung, Beratung und Information
+### 5.1a Bau- und Werkstoff, Energieträger
 ### 5.2 Finanzierung
 ## 6 Organisation und Verfahren
 ## 7 Verwaltungszwang und Strafbestimmungen
