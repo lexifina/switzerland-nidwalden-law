@@ -1,4 +1,4 @@
-# § 35g Schulleitung
+# § 35g 2. Schulleitung
 1 Die Schulleitung ist für die pädagogische, betriebliche und personelle Leitung und Entwicklung der Schule verantwortlich. Sie vertritt die Schule im Rahmen ihrer Zuständigkeit und in Abstimmung mit der Schulkommission nach aussen.
 2 Sie hat insbesondere folgende Aufgaben:
 1. Antragstellung an die Schulkommission betreffend Jahresplan und Jahresziele;

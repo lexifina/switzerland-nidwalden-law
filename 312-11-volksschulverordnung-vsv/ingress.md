@@ -1,4 +1,4 @@
-# Vollzugsverordnung zum Gesetz über die Volksschule
+# Verordnung zum Gesetz über die Volksschule
 (Volksschulverordnung, VSV)
 vom 01.07.2003
 Der Regierungsrat von Nidwalden,

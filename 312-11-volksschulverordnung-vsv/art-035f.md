@@ -1,4 +1,4 @@
-# § 35f Schulkommission
+# § 35f Organisation 1. Schulkommission
 1 Die Schulkommission für die Heilpädagogische Schule begleitet und berät die Schulleitung.
 2 Sie hat insbesondere folgende Aufgaben:
 1. Genehmigung des Leitbildes und der Konzepte;
