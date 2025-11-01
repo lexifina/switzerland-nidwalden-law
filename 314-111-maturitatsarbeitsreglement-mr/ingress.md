@@ -1,6 +1,6 @@
-# Reglement über die Maturaarbeit an der kantonalen Mittelschule
-(Maturaarbeitsreglement, MR)
-vom 04.11.2013
-Der Mittelschulrat,
-gestützt auf § 48 der Vollzugsverordnung vom 12. Juni 2007 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung) sowie Art. 10 und 15 Abs. 2 des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 16. Januar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsreglement, MAR)
+# Reglement über die Maturitätsarbeit an der kantonalen Mittelschule
+(Maturitätsarbeitsreglement, MR)
+vom 17.10.2025
+Der Mittelschulrat von Nidwalden,
+gestützt auf § 48 der Vollzugsverordnung vom 12. Juni 2007 zum Gesetz über die kantonale Mittelschule (Mittelschulverordnung, MSV) sowie Art. 17 und 25 Abs. 2 des Reglements der EDK vom 22. Juni 2023 über die Anerkennung von gymnasialen Maturitätszeugnissen (Maturitätsanerkennungsreglement, MAR),
 beschliesst:
