@@ -21,7 +21,7 @@
 ### 6.7 Archivierung von Steuerakten
 ## 7 Steuerstrafrecht
 ## 8 Übergangs- und Schlussbestimmungen
-## A1 Anhang
+## A1 Anhang 1
 ### A1.1 Bewertung von Naturalbezügen
 ### A1.2 Mietwert von selbstgenutzten Grundstücken
 ### A1-3 Berufsunkosten
@@ -32,5 +32,6 @@
 ### A1.7 Besondere Steuerwerte
 ### A1.8 Zinssätze
 ### A1.9 Quellensteuern
-### A2.0 Mietwertansätze
-### A2.1 Landwerte Grundstücke
+### A2.0 …
+### A1.10 Mietwertansätze und Landwerte
+### A2.1 …
