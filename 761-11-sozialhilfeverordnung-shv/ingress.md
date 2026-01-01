@@ -1,4 +1,4 @@
-# Vollzugsverordnung zum Gesetz über die Sozialhilfe
+# Verordnung zum Gesetz über die Sozialhilfe
 (Sozialhilfeverordnung, SHV)
 vom 16.12.2014
 Der Regierungsrat von Nidwalden,
