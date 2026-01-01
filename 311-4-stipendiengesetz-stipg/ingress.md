@@ -2,5 +2,5 @@
 (Stipendiengesetz, StipG)
 vom 25.09.2019
 Der Landrat von Nidwalden,
-gestützt auf Art. 19 und Art. 60 der Kantonsverfassung,
+gestützt auf Art. 19 und Art. 60 Abs. 1 der Kantonsverfassung,
 beschliesst:
