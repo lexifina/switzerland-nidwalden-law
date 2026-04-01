@@ -7,3 +7,4 @@
 5. die Zustimmung der Grundeigentümerinnen und Grundeigentümer gemäss Art. 41 Abs. 1 vorliegt oder öffentliche Interessen die Aufhebung erforderlich machen.
 2 Für die Aufhebung von Gestaltungsplänen gelten die gleichen Verfahrensvorschriften wie beim Erlass.
 3 Bestehende Bauten und Anlagen, die aufgrund der Aufhebung des Gestaltungsplans der Nutzungszone oder den baupolizeilichen Bestimmungen widersprechen, dürfen erhalten und zeitgemäss erneuert werden.
+2.3.3 Planungszone

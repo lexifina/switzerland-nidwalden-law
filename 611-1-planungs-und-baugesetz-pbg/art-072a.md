@@ -5,3 +5,4 @@
 1. zur Unterscheidung verschiedener Typen von Abflusskorridorzonen;
 2. über die zu erbringenden Nachweise bei Sondernutzungsplänen und Baugesuchen;
 3. zur Zulässigkeit und Bewilligung von Bauten und Anlagen sowie zu den Nutzungen in der Abflusskorridorzone.
+3.2 Erschliessung von Bauzonen
