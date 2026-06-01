@@ -1,0 +1,4 @@
+# Art. 49c Bindungswirkung, Einstellung des Mittelbedarfs
+1 Der Landrat, der Regierungsrat, die Gerichte, die Schlichtungsbehörde und die Staatsanwaltschaft sind an den Globalkredit gebunden. Vorbehalten bleiben die Ausgabenbremse gemäss Art. 35 Abs. 1, die exogenen Veränderungen gemäss Art. 49d sowie 49e, die Nachträge gemäss Art. 49f dieses Gesetzes und der Teuerungsausgleich gemäss Art. 35a PersG.
+2 Der Regierungsrat stellt den jährlichen Mittelbedarf im Rahmen des Globalkredits nach Anhörung der Gerichte, der Schlichtungsbehörde und der Staatsanwaltschaft in das jeweilige Budget ein. Der eingestellte Betrag darf über- oder unterschritten werden, sofern der Globalkredit insgesamt eingehalten werden kann.
+3 Der Landrat ist nicht ermächtigt, den im Budget eingestellten Mittelbedarf zu verändern.
