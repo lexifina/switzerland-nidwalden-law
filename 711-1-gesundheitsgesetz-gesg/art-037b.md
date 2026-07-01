@@ -3,3 +3,5 @@
 2 Die Mitwirkung am Notfalldienst ist auch für Nichtmitglieder verbindlich.
 3 Das Amt ist über die Organisation des Notfalldienstes zu informieren; dieses regelt die Organisation des Notfalldienstes unter Kostenfolge zu Lasten des Berufsverbandes, wenn dieser den Notfalldienst nicht sicherstellt.
 4 Das Amt übt die Aufsicht über den Notfalldienst aus und entscheidet über Streitigkeiten im Zusammenhang mit diesem.
+4 Institutionen im Gesundheitswesen
+4.1 Betriebsbewilligung

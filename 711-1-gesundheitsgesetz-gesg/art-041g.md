@@ -6,3 +6,5 @@
 3 Der Regierungsrat kann von der sofortigen Rückzahlung der Restschuld aus dem Investitionsdarlehen absehen, wenn:
 1. die Baute weiterhin für die Betreuung von Pflegebedürftigen verwendet wird; oder
 2. ein Härtefall vorliegt.
+5 Patientenrechte und ‑pflichten
+5.1 Allgemeine Bestimmungen

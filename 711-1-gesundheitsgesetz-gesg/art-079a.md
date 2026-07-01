@@ -5,3 +5,6 @@
 2 Diese Kosten umfassen die Ausgaben für den Leichentransport, einen Standardsarg mit einfacher Ausstattung, die Kremation inklusive einfacher Urne sowie die eigentliche Bestattung.
 3 Machen mit der Bestattung beauftragte Dritte gegenüber der Politischen Gemeinde ausstehende Forderungen gemäss Abs. 1 geltend, haben sie hinreichende Inkassobemühungen darzutun.
 4 Werden Kosten Dritter übernommen, geht deren Anspruch von Gesetzes wegen auf die Politische Gemeinde über.
+8 Heilmittel
+8.1 Arzneimittel
+8.1.1 Herstellung

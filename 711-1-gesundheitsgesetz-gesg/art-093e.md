@@ -1,0 +1,2 @@
+# Art. 93e Übergangsbestimmung zur Änderung vom 25. März 2026
+1 Vor dem Inkrafttreten der Änderung des Gesundheitsgesetzes vom 25. März 2026 erteilte Berufsausübungsbewilligungen für komplementärmedizinische Tätigkeiten in den Bereichen Ayurveda-Medizin, Homöopathie, Traditionelle chinesische Medizin (TCM) und traditionelle europäische Naturheilkunde erlöschen sieben Jahre nach dem Inkrafttreten dieser Änderung, sofern nicht ein eidgenössisches Diplom als Naturheilpraktikerin oder Naturheilpraktiker in einer der obgenannten Fachrichtung vorgewiesen werden kann.
