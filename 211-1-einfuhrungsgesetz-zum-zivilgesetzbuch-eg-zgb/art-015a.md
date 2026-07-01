@@ -1,1 +1,3 @@
 # Art. 15a …
+3 Organisatorische Vorschriften und kantonales Recht
+3.1 Veröffentlichungen

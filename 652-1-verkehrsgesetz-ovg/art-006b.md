@@ -6,3 +6,5 @@
 3. die Bezeichnung der zum Einsatz vorgesehenen Fahrzeuge;
 4. den Zeitpunkt der vorgesehenen Betriebsaufnahme sowie die Bewilligungsdauer; und
 5. den Fahrplan und den Tarif.
+2 Festlegung des Verkehrsangebotes und Abgeltung der ungedeckten Kosten
+2.1 Festlegung der Verkehrslinien und des Verkehrsangebotes
