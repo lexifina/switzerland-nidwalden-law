@@ -6,3 +6,4 @@
 5 Für die Psychomotorik setzen die Gemeinden in der Kindergarten- und Primarstufe je 1‘300–1‘500 Schülerinnen oder Schüler eine Vollzeitstelle ein.
 6 Für die Heilpädagogische Früherziehung setzt der Kanton je 750–800 Kinder im Vorschulalter eine Vollzeitstelle ein. Als Berechnungsgrundlage gelten die kantonalen Geburtenzahlen der vier jüngsten vollständigen Kalenderjahre.
 7 Kinder, die aufgrund ihrer Beeinträchtigung behindertenspezifischen Früherziehungsstellen zugewiesen werden müssen, werden in der Berechnung nicht berücksichtigt.
+3.2 Sonderpädagogische Massnahmen
