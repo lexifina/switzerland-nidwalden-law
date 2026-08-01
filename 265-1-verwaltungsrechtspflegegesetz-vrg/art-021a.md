@@ -6,3 +6,4 @@
 3 Der Entscheid ist binnen 20 Tagen mit Beschwerde anfechtbar:
 1. beim Obergericht, wenn das Verwaltungsgericht betroffen ist;
 2. beim Verwaltungsgericht, wenn das Verfassungsgericht betroffen ist.
+3.3 Rechtshilfe
