@@ -1,0 +1,5025 @@
+{
+ "country": "CH-NW",
+ "acts": [
+  {
+   "slug": "111",
+   "short": "NG 111",
+   "title": "Verfassung des Kantons Nidwalden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/111",
+   "versions": [
+    {
+     "from": "2010-05-02",
+     "units": 115,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/111/versions/608",
+     "sha256": "9f2fc877cd111b8bb8ee21d6a3de2ce016d61d3bba41968037606a5c927293be"
+    },
+    {
+     "from": "2023-03-13",
+     "units": 116,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/111/versions/1270",
+     "sha256": "c8b398cc4f9173af588db070c7bdc0a6da6362341170d572ed31e0fa6b4eabcf"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 116,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/111",
+     "sha256": "a969c30f2ba4201a61506c13f0cb98a60757502fc09ebee41a5f7371edf8ef7e"
+    }
+   ]
+  },
+  {
+   "slug": "121-1-kantonales-burgerrechtsgesetz-kbug",
+   "short": "Kantonales Bürgerrechtsgesetz, kBüG",
+   "title": "Gesetz über das Kantons- und das Gemeindebürgerrecht",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/121.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 44,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/121.1/versions/1171",
+     "sha256": "4949a3e5d17d12e5e09e152980a15bef3d9b2834da697a1003277085be6bf689"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 45,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/121.1",
+     "sha256": "c06dcbd0881a2149a9df911dd35209ecccaab5e24909fdfbb3ca3c7972aa77dd"
+    }
+   ]
+  },
+  {
+   "slug": "122-1-nag",
+   "short": "NAG",
+   "title": "Gesetz über Niederlassung und Aufenthalt",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/122.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 30,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/122.1/versions/626",
+     "sha256": "5067820d931558fa1152f620fd5fe37f30cb1b8e4520a1e0979e77877a0506b2"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 30,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/122.1",
+     "sha256": "91b526ead40041d3d4ed64c5c0d7ee1c940422997de3689d822033d08a4a822c"
+    }
+   ]
+  },
+  {
+   "slug": "122-2-eg-zum-auslanderrecht",
+   "short": "EG zum Ausländerrecht",
+   "title": "Einführungsgesetz zum Ausländer- und Integrationsgesetz und zum Asylgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/122.2",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 28,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/122.2/versions/651",
+     "sha256": "7f2b3e3fc3324e6d4a5accf63e5f30747666081958849401aa14b83d09272433"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 28,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/122.2",
+     "sha256": "fee4ed208d61f13f0abb06ac3020ba60b9692cd7bf436ac7e341514303068fc2"
+    }
+   ]
+  },
+  {
+   "slug": "131-1-eg-bpr",
+   "short": "EG BPR",
+   "title": "Einführungsgesetz zur Bundesgesetzgebung über die politischen Rechte",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/131.1",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 45,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/131.1",
+     "sha256": "8b9e46b93dc23d465307a23ba664fbe922c750cbc8397fb669db679d2b78f883"
+    }
+   ]
+  },
+  {
+   "slug": "132-1-proporzgesetz-propg",
+   "short": "Proporzgesetz; PropG",
+   "title": "Gesetz über die Verhältniswahl des Landrates",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/132.1",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 41,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/132.1",
+     "sha256": "dd218adde542f1a93afa9c1c71bed65c5235896e1b1c39f06ab50801d2835c82"
+    }
+   ]
+  },
+  {
+   "slug": "132-2-wahl-und-abstimmungsgesetz-wag",
+   "short": "Wahl- und Abstimmungsgesetz, WAG",
+   "title": "Gesetz über die politischen Rechte im Kanton",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/132.2",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 92,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/132.2",
+     "sha256": "ab15998d5baf8fa540eb07182e643e84c3dc098c5b1bd52fb89a973afb27935d"
+    }
+   ]
+  },
+  {
+   "slug": "141-1-publikationsgesetz-pug",
+   "short": "Publikationsgesetz, PuG",
+   "title": "Gesetz über die amtlichen Veröffentlichungen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/141.1",
+   "versions": [
+    {
+     "from": "2000-10-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/141.1/versions/609",
+     "sha256": "796ed1ee2887b4aebab60311acba564ed4149493fc8abc69bf41a1bbfc648e3d"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 27,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/141.1",
+     "sha256": "5a0f460042ffcda3ebec755cedb4c48cdaf200c0bca20e36ab1e2fc32f19dbba"
+    }
+   ]
+  },
+  {
+   "slug": "151-1-landratsgesetz-lrg",
+   "short": "Landratsgesetz, LRG",
+   "title": "Gesetz über die Organisation und die Geschäftsführung des Landrates",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/151.1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 67,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.1/versions/818",
+     "sha256": "ddb76629328cd98adb56902451d050fa4670af8d097c0a239b068d2ef9b2ffff"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 67,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.1/versions/1252",
+     "sha256": "422fef89078659c8ed80c7627f2a258e5bad6893eeb61f9c17898d0db2637066"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 67,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.1/versions/1333",
+     "sha256": "32e085e223f87b87b683ae16270f84824439529ae9af44b16359d19f92c98204"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 67,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.1/versions/1426",
+     "sha256": "50a682ddea91d167f07174196550c288d2ff204dfe32aecab1d1ae14a099ac8a"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 66,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.1",
+     "sha256": "cafc620b173bab4a29d59ff0e3efae035704b4da40e6f30047f988a9008608ac"
+    }
+   ]
+  },
+  {
+   "slug": "152-1-regierungsratsgesetz",
+   "short": "Regierungsratsgesetz",
+   "title": "Gesetz über die Organisation des Regierungsrates und der Verwaltung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/152.1",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 42,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.1",
+     "sha256": "91cd69f0d74f0f4cfde86227a7e227b07b5a1594e771285980746af5b8d15da2"
+    }
+   ]
+  },
+  {
+   "slug": "152-5-notstandsgesetz",
+   "short": "Notstandsgesetz",
+   "title": "Gesetz für den Fall von Katastrophen und kriegerischen Ereignissen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/152.5",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.5",
+     "sha256": "c29c05cff66506db50a82116456dc20f5a5a71adade41876dcdcad1f179032bf"
+    }
+   ]
+  },
+  {
+   "slug": "161-1-behordengesetz-behg",
+   "short": "Behördengesetz, BehG",
+   "title": "Gesetz über die kantonalen und kommunalen Behörden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/161.1",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 53,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/161.1/versions/615",
+     "sha256": "2f44f43760c8ad242691ae30dcb5f721294036654606301c60da5350b7318ea8"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 53,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/161.1",
+     "sha256": "4b258b00b245cf0e468f07d25b09ca09aba0efe95ef40f5160747cc12b641b12"
+    }
+   ]
+  },
+  {
+   "slug": "161-2-haftungsgesetz",
+   "short": "Haftungsgesetz",
+   "title": "Gesetz über die Haftung des Gemeinwesens und seiner Funktionäre",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/161.2",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/161.2",
+     "sha256": "cd60a3445873c3055c67c84375c2e2a82281405fc3fdd1fa2952b3a9e09e590a"
+    }
+   ]
+  },
+  {
+   "slug": "161-3-entschadigungsgesetz-entschg",
+   "short": "Entschädigungsgesetz, EntschG",
+   "title": "Gesetz über die Entschädigung der Behörden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/161.3",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 54,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/161.3/versions/638",
+     "sha256": "17c85d80adce958dbf06d5b419757edda556d35873c6d322e9d01b3f3e26f000"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 54,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/161.3",
+     "sha256": "675ed93baf7a6a779a3a50e1316ae7645fb56a19238d2c3ebc10cc33b8ddd0a2"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 54,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/161.3/versions/1538",
+     "sha256": "471842cd2503fe7a92db576703c06b08774fdd1f268ed2ca84ab2b17dd5f51e6"
+    }
+   ]
+  },
+  {
+   "slug": "165-1-personalgesetz-persg",
+   "short": "Personalgesetz, PersG",
+   "title": "Gesetz über das öffentlich-rechtliche Arbeitsverhältnis",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/165.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 95,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.1/versions/617",
+     "sha256": "6d17ef76469395f41aec4420f3bf409c0c55b2623386cc3f9c27ee2cc58f6cee"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 95,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.1/versions/1024",
+     "sha256": "18d71396ddf0c15193423c9067170509f1f583aaf63c5eb44e75715199baf40e"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 98,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.1/versions/1178",
+     "sha256": "3cb76400540396383c4f363d6ce706240335d0d764db948341131ccbab389597"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 98,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.1/versions/1434",
+     "sha256": "59196824f3b8453cfbf5e7cf8c124bb2e5ac87b23b8fbcbc32edd18ca2a594e5"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 96,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.1",
+     "sha256": "fb0a8b6cceb54c71578570e2a7b5534259b2b73d0b8e039beebb564bff3d0d6c"
+    }
+   ]
+  },
+  {
+   "slug": "165-2-pensionskassengesetz-pkg",
+   "short": "Pensionskassengesetz, PKG",
+   "title": "Gesetz über die kantonale Pensionskasse",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/165.2",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.2/versions/829",
+     "sha256": "08255cf5aabb7299457edb7f50c9ee426bca79d1cf6960f38807624e1889fa41"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 41,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.2",
+     "sha256": "b35e9f5130828524a567497299b46dce4167f2b7c3a6ea30f8b8a744e2bd5f7f"
+    }
+   ]
+  },
+  {
+   "slug": "171-1-gemeindegesetz-gemg",
+   "short": "Gemeindegesetz, GemG",
+   "title": "Gesetz über Organisation und Verwaltung der Gemeinden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/171.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 209,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/171.1/versions/1175",
+     "sha256": "25c92f34107e5bb25ae1602e55b131d52c3395c604c2da2b0bb79c56e0041672"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 211,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/171.1",
+     "sha256": "4c96ac6fca2ea7db485805d6f9d38a388dbe7895776979834e4eef47d7d3696d"
+    }
+   ]
+  },
+  {
+   "slug": "171-2-gemeindefinanzhaushaltgesetz-gemfhg",
+   "short": "Gemeindefinanzhaushaltgesetz, GemFHG",
+   "title": "Gesetz über den Finanzhaushalt der Gemeinden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/171.2",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 97,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/171.2",
+     "sha256": "cc9a1de9a561587f69702e4974fe0a8d1802aa6f9e098bd17a3139d9f8236528"
+    }
+   ]
+  },
+  {
+   "slug": "181-1-korporationsgesetz",
+   "short": "Korporationsgesetz",
+   "title": "Gesetz über das Korporationsbürgerrecht, die Organisation und Verwaltung der Korporationen sowie die Nutzung des Korporationsvermögens",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/181.1",
+   "versions": [
+    {
+     "from": "1992-04-26",
+     "units": 39,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/181.1",
+     "sha256": "7b3be33108524a0097bfde579aea72730d7f72d94f7a12dc29a1053f2e33451f"
+    }
+   ]
+  },
+  {
+   "slug": "191-12",
+   "short": "NG 191.12",
+   "title": "Gesetz über die Besoldung der kantonalen Behörden, Beamten und Angestellten (Bestimmungen über den Beitrag an das Kapuzinerkloster und die Landeswallfahrten)",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/191.12",
+   "versions": [
+    {
+     "from": "1970-04-26",
+     "units": 4,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/191.12",
+     "sha256": "10aa2356400403a8cbe7f7a3a913c76448ef4049d9a512cf0e8ca9184860b7a4"
+    }
+   ]
+  },
+  {
+   "slug": "211-1-einfuhrungsgesetz-zum-zivilgesetzbuch-eg-zgb",
+   "short": "Einführungsgesetz zum Zivilgesetzbuch, EG ZGB",
+   "title": "Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/211.1",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 136,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.1/versions/832",
+     "sha256": "764bedb27579a9bd048dcc170350ad2b14c2f076604413efda5fb19e75e34967"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 138,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.1/versions/1002",
+     "sha256": "893ddf1925642a5928066db024a3e93363e75daa0438339c7437d78bd1ff43a1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 138,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.1/versions/1098",
+     "sha256": "c3f59733368342c354dacc826eef16bca7d0ca6b693dbd164798da60c3a6aa6e"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 138,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.1/versions/1362",
+     "sha256": "8c077c22490120b12fbc8c32a239b20821549a2ea4b93bcc3150afd6d5505f33"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 139,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.1/versions/1472",
+     "sha256": "4187abfaf1713927a9a0bb74f3eae7d0675891535816ff140c141035c6719023"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 138,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.1",
+     "sha256": "5a59fa2d6b65d81442c9feff1ae8dc7312170a62438136ec871fff335cb02d4b"
+    }
+   ]
+  },
+  {
+   "slug": "211-2-personlichkeitsschutzgesetz-pschg",
+   "short": "Persönlichkeitsschutzgesetz, PSchG",
+   "title": "Gesetz zum Schutz der Persönlichkeit",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/211.2",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.2/versions/835",
+     "sha256": "73a8c1a758edd5435f7faee1829a5c1b0178110ff8ea48ccc6317a1c2229b582"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 29,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.2/versions/959",
+     "sha256": "2c72c7f3256cd5a9cce28ee2b9fddc0ad80c712273fab7ad08f2ab012786f0f2"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 29,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.2",
+     "sha256": "cbb289e3c86714a48f450a29b1333a53083c1c6a36c2a570ae6cfdb424968760"
+    }
+   ]
+  },
+  {
+   "slug": "211-3-grundstuckerwerbsgesetz",
+   "short": "Grundstückerwerbsgesetz",
+   "title": "Einführungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/211.3",
+   "versions": [
+    {
+     "from": "1999-10-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.3",
+     "sha256": "5aa8517508b5fdb8fea855d1143d58a51a3c3bfe6ee8d908f819b680427bb8a6"
+    }
+   ]
+  },
+  {
+   "slug": "211-4-flurgenossenschaftsgesetz-flurg",
+   "short": "Flurgenossenschaftsgesetz, FlurG",
+   "title": "Gesetz über die Flurgenossenschaften",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/211.4",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 33,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.4/versions/837",
+     "sha256": "acfa6f2b9bbf3bafcc25e884003462188109b5a5df7ade7a3940f67c1895e4ea"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.4",
+     "sha256": "6b1dd116d81d27eb0240ae7729716bce7ffb91837f2a64aa13d4f74ef7fdf6c3"
+    }
+   ]
+  },
+  {
+   "slug": "214-1-grundbuchgesetz-gbg",
+   "short": "Grundbuchgesetz, GBG",
+   "title": "Gesetz über das Grundbuch",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/214.1",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 36,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.1",
+     "sha256": "62227ed6fbccbab8e1a9231e6c0048ceb6df002b3636ef77faeb1e8629d031ef"
+    }
+   ]
+  },
+  {
+   "slug": "214-2-kantonales-geoinformationsgesetz-kgeoig",
+   "short": "Kantonales Geoinformationsgesetz, kGeoIG",
+   "title": "Gesetz über Geoinformation",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/214.2",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 54,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.2",
+     "sha256": "ad30bec54b729f02f923396f4d913801f2b3e89ddba15cb856cb9f5122a426de"
+    }
+   ]
+  },
+  {
+   "slug": "214-3",
+   "short": "NG 214.3",
+   "title": "Hypothekar-Gesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/214.3",
+   "versions": [
+    {
+     "from": "1987-01-01",
+     "units": 29,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.3",
+     "sha256": "0c3ecf77b4554e072581157cd600b667246c03d14c5f1506c7ffa7252d918761"
+    }
+   ]
+  },
+  {
+   "slug": "221-1-einfuhrungsgesetz-zum-obligationenrecht-eg-or",
+   "short": "Einführungsgesetz zum Obligationenrecht, EG OR",
+   "title": "Einführungsgesetz zum Schweizerischen Obligationenrecht",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/221.1",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 36,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/221.1",
+     "sha256": "334e385f6729c9d20eb4dff1276c90f65f4e255bfae6291946962f8ec78f680d"
+    }
+   ]
+  },
+  {
+   "slug": "232-1-kantonales-datenschutzgesetz-kdsg",
+   "short": "Kantonales Datenschutzgesetz, kDSG",
+   "title": "Gesetz über den Datenschutz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/232.1",
+   "versions": [
+    {
+     "from": "2010-03-01",
+     "units": 43,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/232.1",
+     "sha256": "e1ae1636e2b78fd1d073c0412b73d4f224b1bb74c37901a6a8b4462a34566a0f"
+    }
+   ]
+  },
+  {
+   "slug": "232-2-kantonales-registerharmonisierungsgesetz-krhg",
+   "short": "Kantonales Registerharmonisierungsgesetz, kRHG",
+   "title": "Gesetz über die Harmonisierung amtlicher Register",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/232.2",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/232.2",
+     "sha256": "f16deea0589e11d6aa626372162382e2098342d2c455ae8e89b12b8c7a5bd55c"
+    }
+   ]
+  },
+  {
+   "slug": "232-3-kantonales-offentlichkeitsgesetz-kog",
+   "short": "Kantonales Öffentlichkeitsgesetz, kÖG",
+   "title": "Gesetz über das Öffentlichkeitsprinzip",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/232.3",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/232.3",
+     "sha256": "b84bc8c08a9f83b73412323a5865f2e19e6faa3188e49ee312062cdb849c06c4"
+    }
+   ]
+  },
+  {
+   "slug": "251-1-kantonales-strafgesetz-kstg",
+   "short": "Kantonales Strafgesetz, kStG",
+   "title": "Gesetz über das kantonale Strafrecht",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/251.1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/251.1/versions/817",
+     "sha256": "2e3fad32e68711ae5c556e7d3477e440ab9d5ae1f08f2ea11f62d613a6478586"
+    },
+    {
+     "from": "2024-12-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/251.1/versions/1308",
+     "sha256": "ad7e0c3109bd8f77c23cc0523f32efa2e4dc519fc8fef1ff2616cac5dde769b8"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/251.1",
+     "sha256": "e1f1264c954103b0f712db6e6bd45b7dcca28e825252a1b33071752f5abffd2c"
+    }
+   ]
+  },
+  {
+   "slug": "261-1-gerichtsgesetz-gerg",
+   "short": "Gerichtsgesetz, GerG",
+   "title": "Gesetz über die Gerichte und die Justizbehörden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/261.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 141,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.1/versions/942",
+     "sha256": "426967f0c0cd3cf8429cd9d1c4cf6153eaa08a4d72378e75e74913cefb9cfc20"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 141,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.1/versions/981",
+     "sha256": "71e974afe026620de4dc40a58b60b96ea6d1d246ec4178450966dd18894fa241"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 141,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.1/versions/1160",
+     "sha256": "13e1a56a23888b0478c5beb413807fbc57cf723c0cdb9162001f582080fd37af"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 134,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.1/versions/1387",
+     "sha256": "2386ac5378155f2c6c23b966e460f3c2e4328dedab1c242b41789e12daefbd89"
+    },
+    {
+     "from": "2025-12-02",
+     "units": 134,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.1/versions/1463",
+     "sha256": "2d021edf05b9a5a7f0e2c59abeccc44188620b5bc0e9af454c3d674f4bd895ea"
+    },
+    {
+     "from": "2026-02-01",
+     "units": 137,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.1/versions/1467",
+     "sha256": "22398088ce8d50d723984ad8768f9ffe33d2070e1670f02356b4284ff8001c31"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 136,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.1",
+     "sha256": "5b9ec52183929139c0baa67872f697f8d6eca6ad7ab9af81c491c7da956718c7"
+    }
+   ]
+  },
+  {
+   "slug": "261-2-prozesskostengesetz-pkog",
+   "short": "Prozesskostengesetz, PKoG",
+   "title": "Gesetz über die Kosten im Verfahren vor den Gerichten und den Justizbehörden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/261.2",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 59,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.2",
+     "sha256": "a320e840facf2655711fc17d9fd91a3b3be8809b0d55a30c706b2718f1bdaafe"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 58,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.2/versions/1539",
+     "sha256": "f1ae116710f891a2f99aadb52f2f10d5e068822123523a3bf3c406d2db00d481"
+    }
+   ]
+  },
+  {
+   "slug": "261-3-kantonales-ordnungsbussengesetz-kobg",
+   "short": "Kantonales Ordnungsbussengesetz, kOBG",
+   "title": "Gesetz über das kantonale Ordnungsbussenverfahren",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/261.3",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.3/versions/1388",
+     "sha256": "9ea774c25b8d7af4e5abe7675d4c9768e55335b46b10db280dc7c88dd458a864"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.3",
+     "sha256": "394b4e423136f88e3c1433c6fdfa120b14dd66a41d0da5e6bc87520ed8ea5ff5"
+    }
+   ]
+  },
+  {
+   "slug": "263-4-kantonales-opferhilfegesetz-kohg",
+   "short": "Kantonales Opferhilfegesetz, kOHG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/263.4",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 15,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/263.4",
+     "sha256": "0f20dd584fc7bb5a7eab78319e0fa9c4be7439b76a6a518636f5081d04be1b5c"
+    }
+   ]
+  },
+  {
+   "slug": "264-1-sozialversicherungsrechtspflegegesetz-srg",
+   "short": "Sozialversicherungsrechtspflegegesetz, SRG",
+   "title": "Gesetz über die Sozialversicherungsrechtspflege",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/264.1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 32,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/264.1",
+     "sha256": "74c47c2b3fd2d2fd8b9d23873d886b62a632ca43ed0554588fe354a027c4babe"
+    }
+   ]
+  },
+  {
+   "slug": "265-1-verwaltungsrechtspflegegesetz-vrg",
+   "short": "Verwaltungsrechtspflegegesetz, VRG",
+   "title": "Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/265.1",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 163,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.1/versions/1071",
+     "sha256": "1ba2e3cf31cf2ae473e8455a49eb8ccf6cdc2c3314cf4504fc3489ad6035d9f2"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 163,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.1/versions/1289",
+     "sha256": "24b4e221509f7e93733691756918ace070ef6dc263a821cf22df4293d9c20955"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 164,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.1/versions/1438",
+     "sha256": "1c5e8d40a4926f0426f4354f92555bd6ac3ab9166b98146f80d6911dec4fcb4c"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 163,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.1",
+     "sha256": "4ef7bdad01efb87f4cdcc25be4de913d3aaf907cadeabab6f724c3144c4f871e"
+    }
+   ]
+  },
+  {
+   "slug": "265-5-gebuhrengesetz-gebg",
+   "short": "Gebührengesetz, GebG",
+   "title": "Gesetz über die amtlichen Kosten",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/265.5",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 61,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.5/versions/855",
+     "sha256": "f49b2023213f263ee9d88b4eaf20b54e84cd82d43248d682d8627ba69b3835ee"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 61,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.5",
+     "sha256": "e658ce9ade49f82c8120d943a335487c518f4a92acc90c2171b8693e4a671a65"
+    }
+   ]
+  },
+  {
+   "slug": "266-1-kantonales-enteignungsgesetz-kentg",
+   "short": "Kantonales Enteignungsgesetz, kEntG",
+   "title": "Gesetz über die Enteignung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/266.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 62,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/266.1",
+     "sha256": "fc5cefd49f723096756c3354a69cbdd1e2e1aa6e6a1143e227d278a3163f55d2"
+    }
+   ]
+  },
+  {
+   "slug": "267-1-kantonales-anwaltsgesetz-anwg",
+   "short": "Kantonales Anwaltsgesetz, AnwG",
+   "title": "Gesetz über die Ausübung des Anwaltsberufes",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/267.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 32,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/267.1/versions/858",
+     "sha256": "0c6641096737ae9f6aa1243f2210a4dcc6f5890bd9b4e6d7e5f6edfc7e1ae471"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 36,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/267.1",
+     "sha256": "46e70787eceb56e9ca897829f085b448bb5bd0a3a9ce060211f9a159cb505d1e"
+    }
+   ]
+  },
+  {
+   "slug": "268-1-beurkundungsgesetz-beurkg",
+   "short": "Beurkundungsgesetz, BeurkG",
+   "title": "Gesetz über die öffentlichen Beurkundungen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/268.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 7,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/268.1",
+     "sha256": "3a730e5cc7a5d1bdec60a1c1dcaff557c55aa2dcd82d080d26d83df4b953ff99"
+    }
+   ]
+  },
+  {
+   "slug": "271-1-eg-schkg",
+   "short": "EG SchKG",
+   "title": "Einführungsgesetz zum Bundesgesetz über Schuldbetreibung und Konkurs",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/271.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/271.1",
+     "sha256": "95e8614221913840cd05b668806c7a208c0778ae48de63a07440be8efbd7d7b0"
+    }
+   ]
+  },
+  {
+   "slug": "271-5-eg-lugano-ubereinkommen-eg-lugu",
+   "short": "EG Lugano-Übereinkommen, EG LugÜ",
+   "title": "Einführungsgesetz zum Übereinkommen über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/271.5",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/271.5",
+     "sha256": "8b425bc51c365a925b88027283024fd7ded9b6382e17f2a5ad7c63e79172a0ea"
+    }
+   ]
+  },
+  {
+   "slug": "273-3-strafvollzugsgesetz-stvg",
+   "short": "Strafvollzugsgesetz, StVG",
+   "title": "Gesetz über den Straf- und Massnahmenvollzug",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/273.3",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 42,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/273.3/versions/578",
+     "sha256": "b707b336c9b258afe188ab1572fb1e50c87884972db6c25c03daad6c10614046"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 42,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/273.3",
+     "sha256": "6d9276c3a40e376711f463dfb2290cb387e54e3803536e3170df7e66f6d7a36d"
+    }
+   ]
+  },
+  {
+   "slug": "273-4-gefangnisgesetz-gefg",
+   "short": "Gefängnisgesetz, GefG",
+   "title": "Gesetz über das kantonale Gefängnis",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/273.4",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 58,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/273.4",
+     "sha256": "a4b161fc4155ec8d1036c1e79413ca476a923f9cfa96e2ebd47325331813b612"
+    }
+   ]
+  },
+  {
+   "slug": "311-1-bildungsgesetz-big",
+   "short": "Bildungsgesetz, BiG",
+   "title": "Gesetz über das Bildungswesen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/311.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.1/versions/580",
+     "sha256": "961a17a6c60dc7b8b9a5103fd0079c5d78b9ad4af8a34aab02c1a406c2240ac5"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.1",
+     "sha256": "80dc28d9b721a40fe073cef3c1226c03c9fdd33f4e4859e28bc6927894e755d1"
+    }
+   ]
+  },
+  {
+   "slug": "311-4-stipendiengesetz-stipg",
+   "short": "Stipendiengesetz, StipG",
+   "title": "Gesetz über die Ausbildungsbeiträge",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/311.4",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 32,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.4/versions/555",
+     "sha256": "65dc64bdb3ca44773f6beba339679f8a2b19585e62fbf5b03e832e0130b71458"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 33,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.4",
+     "sha256": "8bff63148f09b5d82160802186693ed01ce2812ec82c84aa77f77e9b3ce341d3"
+    }
+   ]
+  },
+  {
+   "slug": "312-1-volksschulgesetz-vsg",
+   "short": "Volksschulgesetz, VSG",
+   "title": "Gesetz über die Volksschule",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/312.1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 88,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/312.1/versions/583",
+     "sha256": "9f5a31da9190af285f0f01a34b007e08a35926fb19832372f033e84e0f0fb110"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 88,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/312.1/versions/1338",
+     "sha256": "25205ac0553bd2707defbd468c24a643b6777c45f751598ec0dffc59f23f189d"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 88,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/312.1",
+     "sha256": "564a803545479bcbb33ba8ba7657e910faad389ca31acae3fbf59e85cfd9f3d8"
+    }
+   ]
+  },
+  {
+   "slug": "313-1-kantonales-berufsbildungsgesetz-kbbg",
+   "short": "Kantonales Berufsbildungsgesetz, kBBG",
+   "title": "Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/313.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 44,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/313.1",
+     "sha256": "780e77bfe438188eef914d477da2f260cfc3c4ce75dffb4d9a2aa91b786ef33d"
+    }
+   ]
+  },
+  {
+   "slug": "314-1-mittelschulgesetz",
+   "short": "Mittelschulgesetz",
+   "title": "Gesetz über die kantonale Mittelschule",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/314.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 35,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/314.1",
+     "sha256": "56e22f56170b519b188d3d965ad952535d0e0afe138874834d58290199f0d90a"
+    }
+   ]
+  },
+  {
+   "slug": "319-1-sportgesetz-sportg",
+   "short": "Sportgesetz, SportG",
+   "title": "Gesetz über die Förderung von Turnen und Sport",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/319.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/319.1",
+     "sha256": "9c6bdb829769a95cc9810afd373250b77e3e1d15ecdad9813881826c49e6f2cc"
+    }
+   ]
+  },
+  {
+   "slug": "321-1-kulturforderungsgesetz-kfg",
+   "short": "Kulturförderungsgesetz, KFG",
+   "title": "Gesetz über die Förderung des kulturellen Lebens",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/321.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 24,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/321.1",
+     "sha256": "fb71160a6596a38956269c46cadb760d026d9eb763f7cace0ebcbb83f5ddea95"
+    }
+   ]
+  },
+  {
+   "slug": "322-1-kantonales-kulturguterschutzgesetz-kkgsg",
+   "short": "Kantonales Kulturgüterschutzgesetz, kKGSG",
+   "title": "Gesetz über den Schutz der Kulturgüter",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/322.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 23,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/322.1",
+     "sha256": "e9a5c08d015b5477d0184006a264b815afbdda3f330c9c80f3ea53a9211fc67c"
+    }
+   ]
+  },
+  {
+   "slug": "322-2-denkmalschutzgesetz-dschg",
+   "short": "Denkmalschutzgesetz, DSchG",
+   "title": "Gesetz über den Schutz der Kulturdenkmäler",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/322.2",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 58,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/322.2/versions/863",
+     "sha256": "9bc4ad5db172a7a0fd5bf01729d4e3dae1a62897000a20561c3e8be8d2a7077b"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/322.2",
+     "sha256": "b53d2fa4faa23f928f4e9cb246ba56685de465f5b327cb8514ff5da61cd3b8a5"
+    }
+   ]
+  },
+  {
+   "slug": "323-1-archivierungsgesetz-archg",
+   "short": "Archivierungsgesetz, ArchG",
+   "title": "Gesetz über die Aktenführung und die Archivierung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/323.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/323.1/versions/865",
+     "sha256": "f78faf72d3a37ab9ab11ba3564bbd4ed74b1ad04ebcdb9c6452eb9ae437735fe"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/323.1/versions/1323",
+     "sha256": "4cccef8c0059868d3561997d8af9ddbff1c898ad6aad22c01a3643e63c4fc6bf"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/323.1/versions/1442",
+     "sha256": "da3e60e6ff19c04adab93a5d125cca03ff20beea91794c142b64140c99b7bc60"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 39,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/323.1",
+     "sha256": "c6bd536965ef42f4f34f93327dd92c8fe8cf80ca7b8ce730f2ed2721a7f14683"
+    }
+   ]
+  },
+  {
+   "slug": "331-1-naturschutzgesetz-nschg",
+   "short": "Naturschutzgesetz, NSchG",
+   "title": "Gesetz über den Natur- und Landschaftsschutz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/331.1",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 56,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/331.1",
+     "sha256": "b525ac59821106cc9075acdabeb380170ab53ac6043a0e920388f73779422b79"
+    }
+   ]
+  },
+  {
+   "slug": "421-1-kantonales-zivilschutzgesetz-kzsg",
+   "short": "Kantonales Zivilschutzgesetz, kZSG",
+   "title": "Einführungsgesetz zur Bundesgesetzgebung über den Zivilschutz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/421.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 36,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/421.1",
+     "sha256": "33caaa7af68e7b4eb3c4fefba88094aadbb91b1cf21f7f3f10e685f44f34d2fe"
+    }
+   ]
+  },
+  {
+   "slug": "431-1-kantonales-landesversorgungsgesetz-klvg",
+   "short": "Kantonales Landesversorgungsgesetz, kLVG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die wirtschaftliche Landesversorgung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/431.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/431.1/versions/594",
+     "sha256": "3220d9c86ff5c32cd4b265f5acba93b32c8ba294bae92ca1ec4d3d04b3d83c0a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 7,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/431.1",
+     "sha256": "0dade7c77d6353e671a2f6d446c915dadf235b214ebade56b8d074f8e5763e8d"
+    }
+   ]
+  },
+  {
+   "slug": "511-1-finanzhaushaltgesetz-kfhg",
+   "short": "Finanzhaushaltgesetz, kFHG",
+   "title": "Gesetz über den Finanzhaushalt des Kantons",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/511.1",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 90,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/511.1/versions/1385",
+     "sha256": "9b895923b6a6c29fef90dc75996dd6a78c51fcb1195fba69b6d8f145df90430b"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 97,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/511.1",
+     "sha256": "a06943ff3ea27178ba10d0b6478569e61835288b94711c73abaef5eb843e90b5"
+    }
+   ]
+  },
+  {
+   "slug": "512-1-finanzausgleichsgesetz-fag",
+   "short": "Finanzausgleichsgesetz, FAG",
+   "title": "Gesetz über den direkten Finanzausgleich",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/512.1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 42,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/512.1/versions/877",
+     "sha256": "111fbc6fa0db28cc81dc0529663ed9dff6dcf43009f9a2216f95a80e4ef79b73"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 42,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/512.1",
+     "sha256": "6a519e9373cf78b9c31a1daef96fbebc1f64d431a116a64bc0f172935affd34a"
+    }
+   ]
+  },
+  {
+   "slug": "513-1-kantonales-finanzkontrollgesetz-kfkg",
+   "short": "Kantonales Finanzkontrollgesetz, kFKG",
+   "title": "Gesetz über die Finanzkontrolle",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/513.1",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/513.1/versions/878",
+     "sha256": "c87d7306154687baa712be257983b22cf478436a3e6a4f99a0fae92245314667"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 24,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/513.1",
+     "sha256": "0d14960d1bd8f924e599070cd5140c2c5064369b75c148563a0129407829e123"
+    }
+   ]
+  },
+  {
+   "slug": "521-1-steuergesetz-stg",
+   "short": "Steuergesetz, StG",
+   "title": "Gesetz über die Steuern des Kantons und der Gemeinden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/521.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 317,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.1/versions/974",
+     "sha256": "cacad59626c5e68b1f4ef4b964feaee0ef5086d6635154449fb81d7ccd021492"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 317,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.1/versions/1107",
+     "sha256": "8378fbadbb053af1a583e77922064556734e80d04791d6acaddbf7bd4f2f374e"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 318,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.1/versions/1337",
+     "sha256": "5c0171e2d4b8cb0faee9075d52f182f7fb8484442d9b14fa440c8bddf9fbdd08"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 318,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.1",
+     "sha256": "cf8159bdbb0f4f9868feabaadc908a47fe47d9f733dc66d0b84444c839e9eb0d"
+    }
+   ]
+  },
+  {
+   "slug": "531-1-einfuhrungsgesetz-zur-direkten-bundessteuer",
+   "short": "Einführungsgesetz zur direkten Bundessteuer",
+   "title": "Einführungsgesetz zum Bundesgesetz über die direkte Bundessteuer",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/531.1",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/531.1",
+     "sha256": "acece317828b9e9d96dc6aa1f232d6c3c9acbb46d25010fe97a0c1d9269bfd72"
+    }
+   ]
+  },
+  {
+   "slug": "533-1",
+   "short": "NG 533.1",
+   "title": "Einführungsgesetz zur Bundesgesetzgebung über die Vermeidung der internationalen Doppelbesteuerung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/533.1",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 7,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/533.1",
+     "sha256": "02b4f94e5faa6b5b498e4db31cc05bb672b01bba2528df897032258dc7a60935"
+    }
+   ]
+  },
+  {
+   "slug": "611-01-baugesetz-baug",
+   "short": "Baugesetz, BauG",
+   "title": "Gesetz über die Raumplanung und das öffentliche Baurecht",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/611.01",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 151,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.01/versions/890",
+     "sha256": "e72261d56941ee9d6952a3a6b0264d5a6a9d9daced332cab0db3da37d9b621ff"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 151,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.01/versions/1444",
+     "sha256": "3f1fc2c3218ba16e5b8807cfdfb78b789e8043c3f44776b5aefe517c9625a99f"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 150,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.01",
+     "sha256": "ab4bf5835270430cff9b62ffd1a377b454fccb90d119c99344f9c9f76037cfca"
+    }
+   ]
+  },
+  {
+   "slug": "611-1-planungs-und-baugesetz-pbg",
+   "short": "Planungs- und Baugesetz, PBG",
+   "title": "Gesetz über die Raumplanung und das öffentliche Baurecht",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/611.1",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 229,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.1/versions/1079",
+     "sha256": "0fa1938105b89e9a3bd829d066014c01abc827f5e0ad2bf67e9a5dd257397787"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 229,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.1/versions/1109",
+     "sha256": "a056b49680954de81cd7a33bcb76afa54f0ca444c317e7998d6278fb54af7dcd"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 230,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.1/versions/1298",
+     "sha256": "6d8249b0588d2045c9e13dc418dc0fd75f122dec5f31187cda4dde3c50e1bf70"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 230,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.1/versions/1324",
+     "sha256": "8e5898b1335c62ae62d1e6e9a7d3b7d56221192962855e36b0ab383bcf91c1e9"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 230,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.1/versions/1365",
+     "sha256": "cad41a94f6fc2604451bbfea5d2f31f2bb3f3ac7af297c1914809729e6629d14"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 230,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.1/versions/1446",
+     "sha256": "f897cf29a6bbbbe2f5831e349c697c98bef7d310c288722202bd519c3c026891"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 229,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.1/versions/1487",
+     "sha256": "e8e2d771f59941da4194debf332e1b9b66b34d4e9c8644243d2659b148827d15"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 230,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.1",
+     "sha256": "078b0d9d5d71203fc58d0d0a1c05bd0f1684095111a06d6387d52a75fb8f6151"
+    }
+   ]
+  },
+  {
+   "slug": "611-3-mehrwertabgabegesetz-mwag",
+   "short": "Mehrwertabgabegesetz, MWAG",
+   "title": "Einführungsgesetz zum Raumplanungsgesetz betreffend Mehrwertabgabe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/611.3",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.3",
+     "sha256": "95d714ea7f7e907202877c0062e22a32224132071bb4edf268f5ba3b786df611"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.3/versions/1537",
+     "sha256": "96d847f3eea680ef712fea3f118ef095a3368f2298624d7b4299c42fc913074b"
+    }
+   ]
+  },
+  {
+   "slug": "613-1-brandschutz-und-feuerwehrgesetz-bfg",
+   "short": "Brandschutz- und Feuerwehrgesetz, BFG",
+   "title": "Gesetz über den Brandschutz und die Feuerwehr",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/613.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 61,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/613.1",
+     "sha256": "795752a655b9ce971aa9098e85a61d6158f7331cc51d7f2616b2aec01271e0cf"
+    }
+   ]
+  },
+  {
+   "slug": "614-1-fuss-wander-und-mountainbikeweggesetz-fwmg",
+   "short": "Fuss-, Wander- und Mountainbikeweggesetz, FWMG",
+   "title": "Gesetz über die Fuss-, Wander-, und Mountainbikewege",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/614.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 42,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/614.1/versions/813",
+     "sha256": "1265f3918096109539e2acbd3caa01ec7e9a86f9dd407ddc40dfc7171cb2ce40"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 39,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/614.1",
+     "sha256": "cebf088ea0da2c8eec60f75cd8d8b2d01819815edd634b0e163025177903ecd8"
+    }
+   ]
+  },
+  {
+   "slug": "622-1-strassengesetz-strg",
+   "short": "Strassengesetz, StrG",
+   "title": "Gesetz über den Bau und Unterhalt von Strassen und Velowegen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/622.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 103,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/622.1/versions/1074",
+     "sha256": "1c8c0442adc59f87f7f2616812b6e67d751859f0300d3419a786ab92a0f0b675"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 103,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/622.1/versions/1479",
+     "sha256": "dfedbae30437846e1232a02f9dd4d510f9828ec62db5d94f7e682fa9d400f3c6"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 97,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/622.1",
+     "sha256": "460682f64e2caa1d184a752e007498f78ff98cc09da198abcf20615ff42df478"
+    }
+   ]
+  },
+  {
+   "slug": "631-1-gewassergesetz-gewg",
+   "short": "Gewässergesetz, GewG",
+   "title": "Gesetz über die Gewässer",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/631.1",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 173,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/631.1/versions/1256",
+     "sha256": "1c75efc1ad721073ea8d190edc0eaec0da3070200c15d9a9e65d373a9435f1ab"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 173,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/631.1",
+     "sha256": "0d28e35c24fec48da836832290ea05fda24833397a7e066b9351d5fee7ca66fe"
+    }
+   ]
+  },
+  {
+   "slug": "641-1-kantonales-energiegesetz-keng",
+   "short": "Kantonales Energiegesetz, kEnG",
+   "title": "Gesetz über die sparsame Energienutzung und die Förderung erneuerbarer Energien",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/641.1",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 51,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/641.1/versions/647",
+     "sha256": "a2602bcd3222d1d23dd7b0f160d1aab4ea362b01882dddadff89bcbb7ea61a61"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 52,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/641.1/versions/648",
+     "sha256": "3398131194257ddee1cafeff06ab9521c011c03645346ca954fd7fa1a41c25c0"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 52,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/641.1",
+     "sha256": "0d10a8f81fd96989fa314ce31bbbe927fae080bba638d0f372fa2743fbe4f6b1"
+    }
+   ]
+  },
+  {
+   "slug": "641-2-kantonales-stromversorgungsgesetz-kstromvg",
+   "short": "Kantonales Stromversorgungsgesetz, kStromVG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Stromversorgung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/641.2",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/641.2",
+     "sha256": "a9169f7fefade84d357f5923fa34c4da0653cbe6604b21ab3d20e5ef365ac151"
+    }
+   ]
+  },
+  {
+   "slug": "642-1-elektrizitatswerkgesetz-ewng",
+   "short": "Elektrizitätswerkgesetz, EWNG",
+   "title": "Gesetz über das Kantonale Elektrizitätswerk Nidwalden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/642.1",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 27,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/642.1",
+     "sha256": "e69e83f16a686a570e27c1078a4e730e629c140543cb70440218ff16081f2e5f"
+    }
+   ]
+  },
+  {
+   "slug": "642-31",
+   "short": "NG 642.31",
+   "title": "Gesetz betreffend die Erstellung von neuen Kraftwerkanlagen des Kantonalen Elektrizitätswerkes Nidwalden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/642.31",
+   "versions": [
+    {
+     "from": "1956-04-29",
+     "units": 3,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/642.31",
+     "sha256": "740fe5f6307c2b035058948bbc67eb3baab3cd0f68354864f655f449315683c5"
+    }
+   ]
+  },
+  {
+   "slug": "651-1-kantonales-strassenverkehrsgesetz-ksvg",
+   "short": "Kantonales Strassenverkehrsgesetz, kSVG",
+   "title": "Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/651.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/651.1/versions/941",
+     "sha256": "22faebefc4c2c7326bbc56725e16dcc393f05569dc46af2e12d8f57a31495729"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/651.1/versions/1332",
+     "sha256": "e60c35844794b330f9ea000ce6be336afa6ddd4427ec63e8355521788e449a49"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/651.1",
+     "sha256": "21427e2ff38aea645cd3222a7679a871298a29b5b2b5f67f277ade400c9ad162"
+    }
+   ]
+  },
+  {
+   "slug": "651-3",
+   "short": "NG 651.3",
+   "title": "Gesetz über die Strassenverkehrssteuern",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/651.3",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 28,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/651.3",
+     "sha256": "1603ca197955e3db15a2e791d741ceb3e6f676adee96efde9bbe73d7e073060c"
+    }
+   ]
+  },
+  {
+   "slug": "652-1-verkehrsgesetz-ovg",
+   "short": "Verkehrsgesetz, ÖVG",
+   "title": "Gesetz über die Förderung des öffentlichen Verkehrs",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/652.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 41,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/652.1/versions/1075",
+     "sha256": "82b331cc061310f1c66790ed853f3d225d7bce883fd715de99e3274299a7e747"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/652.1",
+     "sha256": "6ef0a430956e19e16b908a882b83754cfacb3de24c05941c64ce5846d8f42b2a"
+    }
+   ]
+  },
+  {
+   "slug": "654-1-schifffahrtsgesetz-kbsg",
+   "short": "Schifffahrtsgesetz, kBSG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Binnenschifffahrt",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/654.1",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 23,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/654.1",
+     "sha256": "dfc48b26e434b84f64a959292b225fe14cf083285b3b01fd28e85f82b3fdd4e9"
+    }
+   ]
+  },
+  {
+   "slug": "711-1-gesundheitsgesetz-gesg",
+   "short": "Gesundheitsgesetz, GesG",
+   "title": "Gesetz zur Erhaltung und Förderung der Gesundheit",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/711.1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 124,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/711.1/versions/1067",
+     "sha256": "2dca1674db6196ae2192b432283209b32ec8739d32ddae3444ac5c38aea34ded"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 124,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/711.1/versions/1309",
+     "sha256": "606c7d17074795d08b5b16356662414f0ccc8b81fa96f170829b08d1322e78c3"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 124,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/711.1/versions/1348",
+     "sha256": "71c3f62641b3cce99fde6260704b4c0946bc4130a6e9e14f7e3aede53d0cd4b0"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 126,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/711.1",
+     "sha256": "05de7ef9f527d9e191d21d2d19b96d00c286c50fdc7165eb7355ffbdcc4fd7a9"
+    }
+   ]
+  },
+  {
+   "slug": "712-1-pflegeausbildungsforderungsgesetz-pafg",
+   "short": "Pflegeausbildungsförderungsgesetz, PAFG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/712.1",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 20,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/712.1",
+     "sha256": "7bf96e7ab272eb567a38659a58f85969512f4a975a618f41ab347fec6214b712"
+    }
+   ]
+  },
+  {
+   "slug": "714-1-spitalgesetz-spitg",
+   "short": "Spitalgesetz, SpitG",
+   "title": "Gesetz über das Kantonsspital",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/714.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 32,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/714.1",
+     "sha256": "ee34c37819d10c100afb328984e4a59190232d093e3a1aa3fef14a126a2ec430"
+    }
+   ]
+  },
+  {
+   "slug": "717-1-lebensmittel-und-veterinargesetz-lvg",
+   "short": "Lebensmittel- und Veterinärgesetz, LVG",
+   "title": "Gesetz über Lebensmittel und das Veterinärwesen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/717.1",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 34,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/717.1",
+     "sha256": "fe469b82ee5d1e92ab2e83678954854c15e6e443b9f2d4addfd7e0ea1d3c7b55"
+    }
+   ]
+  },
+  {
+   "slug": "721-1-kantonales-umweltschutzgesetz-kusg",
+   "short": "Kantonales Umweltschutzgesetz, kUSG",
+   "title": "Einführungsgesetz zum Bundesgesetz über den Umweltschutz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/721.1",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 65,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/721.1",
+     "sha256": "e2b46bacfdf73062d7cf42742b934477ce606a7131becf3450abbee714d3c8fc"
+    }
+   ]
+  },
+  {
+   "slug": "732-4",
+   "short": "NG 732.4",
+   "title": "Gesetz über die steuerbegünstigten Arbeitsbeschaffungsreserven",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/732.4",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/732.4",
+     "sha256": "09fbc7dad050df0ebaf32d7a9592df433a80d141194ec1406e9660e24953e856"
+    }
+   ]
+  },
+  {
+   "slug": "741-1",
+   "short": "NG 741.1",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/741.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.1",
+     "sha256": "e9a1f4762c8ed1316a78639fad5c08fb23a9c699f6c458815c8f3b87cf5af016"
+    }
+   ]
+  },
+  {
+   "slug": "741-3-erganzungsleistungsgesetz-kelg",
+   "short": "Ergänzungsleistungsgesetz, kELG",
+   "title": "Einführungsgesetz zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/741.3",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.3",
+     "sha256": "b17896ec62de3cc1a5896d14fa77a2b4ff62593e03b26daace7135dfbb4b3d8a"
+    }
+   ]
+  },
+  {
+   "slug": "742-1-krankenversicherungsgesetz-kkvg",
+   "short": "Krankenversicherungsgesetz, kKVG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Krankenversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/742.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 62,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.1/versions/1076",
+     "sha256": "3e9a53bfb6b624eb835a1d7e1444f9bb0b24d74e724bb4aba01c3a5283f2f9e2"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.1/versions/1157",
+     "sha256": "d4204331541e25a0a0e8a7b5902f4538ab44ed2de19670ac8914f8fb98880c10"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.1/versions/1284",
+     "sha256": "edcf6437ede6ec33546d63f491b2c83ae73fdabd0150cb2211ff2c93adde88d7"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 64,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.1",
+     "sha256": "90c3879e6b6909071b454288d601d3677519a12a3337277811401ee46db48efe"
+    }
+   ]
+  },
+  {
+   "slug": "745-1-kantonales-arbeitsvermittlungsgesetz-kavg",
+   "short": "Kantonales Arbeitsvermittlungsgesetz, kAVG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/745.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/745.1",
+     "sha256": "f623adc6a123a6cfa552dd971f5d98240967a41c17bf8c1b98351979880a576e"
+    }
+   ]
+  },
+  {
+   "slug": "751-2",
+   "short": "NG 751.2",
+   "title": "Gesetz über die Wohnbau- und Eigentumsförderung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/751.2",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 7,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/751.2",
+     "sha256": "2058462e87b28ae0fad81b9a1d5c02ffab5e50fc8d15eab3ad1a9b93f304fcce"
+    }
+   ]
+  },
+  {
+   "slug": "751-3-wohnraumforderungsgesetz-wrfg",
+   "short": "Wohnraumförderungsgesetz, WRFG",
+   "title": "Gesetz über die Förderung des preisgünstigen Wohnraumes",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/751.3",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/751.3",
+     "sha256": "09b0ec04e8cf9357617b047da7ab91d3d098b3bb58a7951c92eddd629bb04410"
+    }
+   ]
+  },
+  {
+   "slug": "761-1-sozialhilfegesetz-shg",
+   "short": "Sozialhilfegesetz, SHG",
+   "title": "Gesetz über die Sozialhilfe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/761.1",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.1/versions/712",
+     "sha256": "fe6720ed2eb8fe1efea9281d1fb8a878b5374a02f7560d2ace45e6ab78f81a0f"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.1/versions/1492",
+     "sha256": "f3cfc8f4bdab97c4410d98b859f1786196e019f055ac4e8f7b9cdadacbc93a56"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.1",
+     "sha256": "4cada5e8b3fa0abc049b1e02926060acb209ae5deb42e79589bee01b12716589"
+    }
+   ]
+  },
+  {
+   "slug": "761-2-betreuungsgesetz-betrg",
+   "short": "Betreuungsgesetz, BetrG",
+   "title": "Gesetz über die Angebote für Personen mit besonderen Betreuungsbedürfnissen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/761.2",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 47,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.2/versions/903",
+     "sha256": "33f9c006c66fc905dc2069dafd0443c436398b208c816093c596f7e838127321"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 47,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.2",
+     "sha256": "e20fc603a642f2bf9b209b1add3cf7dee38260a7bb0c6f6f0377a5e0a4a998e0"
+    }
+   ]
+  },
+  {
+   "slug": "762-1-kantonales-familienzulagengesetz-kfamzg",
+   "short": "Kantonales Familienzulagengesetz, kFamZG",
+   "title": "Einführungsgesetz zum Gesetz über die Familienzulagen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/762.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 33,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/762.1/versions/711",
+     "sha256": "18971b82184487b970a451c95fce44809c50da0cee32bbd4ff1f4351b0be1670"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 33,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/762.1",
+     "sha256": "91e388157e533aa2f0a47c7f6620942950b15c81e0079d0d07bdc67fa61366ba"
+    }
+   ]
+  },
+  {
+   "slug": "764-1-kinderbetreuungsgesetz-kibg",
+   "short": "Kinderbetreuungsgesetz, KiBG",
+   "title": "Gesetz über die familienergänzende Kinderbetreuung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/764.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 20,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/764.1",
+     "sha256": "0ea3d6ecc798874e8c0b6d495e47c8e9bb2c2c8f6df3796ac88d66b94b7d0570"
+    }
+   ]
+  },
+  {
+   "slug": "811-1-wirtschaftsforderungsgesetz-wfg",
+   "short": "Wirtschaftsförderungsgesetz, WFG",
+   "title": "Gesetz über die Förderung der Wirtschaft",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/811.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 31,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/811.1",
+     "sha256": "b6e4416b99570552757d942ab96169322cdf6528df92c5e31ca4b39550586bee"
+    }
+   ]
+  },
+  {
+   "slug": "821-1-kantonales-landwirtschaftsgesetz-klwg",
+   "short": "Kantonales Landwirtschaftsgesetz, kLwG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Landwirtschaft",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/821.1",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 44,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/821.1/versions/601",
+     "sha256": "31e690df4c42fa9daf942abcd44b967ceab8c1de83c2dc649b3b0691a9669b74"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 48,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/821.1",
+     "sha256": "8a07d23421bb142f80d4172d1c41cd4c641e8d49e42de0e09a179b1b167ab277"
+    }
+   ]
+  },
+  {
+   "slug": "825-1-bauerliches-grundbesitzgesetz-bgbg",
+   "short": "Bäuerliches Grundbesitzgesetz, BGBG",
+   "title": "Einführungsgesetz zur Bundesgesetzgebung über den bäuerlichen Grundbesitz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/825.1",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/825.1",
+     "sha256": "1df0f73f6191672bf676ed461f02e92b5ef80a5d76b7170304c48b91deba314a"
+    }
+   ]
+  },
+  {
+   "slug": "826-2-viehversicherungsgesetz-viehvg",
+   "short": "Viehversicherungsgesetz, ViehVG",
+   "title": "Gesetz über die Viehversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/826.2",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 57,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/826.2",
+     "sha256": "0cbf2eaeb82da9189d32ea705a5a6ec36fbd8d4473fdcfed60a36d8cafbc7874"
+    }
+   ]
+  },
+  {
+   "slug": "826-3-hundegesetz-hug",
+   "short": "Hundegesetz, HuG",
+   "title": "Gesetz über das Halten von Hunden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/826.3",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/826.3",
+     "sha256": "90cd244398f04a25729dec331c067c0343c4cffdb82b19e02b356356d91c71bd"
+    }
+   ]
+  },
+  {
+   "slug": "831-1-kantonales-waldgesetz-kwag",
+   "short": "Kantonales Waldgesetz, kWaG",
+   "title": "Einführungsgesetz zum Bundesgesetz über den Wald",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/831.1",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 60,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/831.1/versions/694",
+     "sha256": "58d5a29f1481885239c8173ccba48f77cce2f76e02a7bbbe5707bb16597efb71"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 67,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/831.1",
+     "sha256": "b71fbe3762b6b3917737a577d32da1ade00a7ed188e774e599feb820645cb6e1"
+    }
+   ]
+  },
+  {
+   "slug": "841-1-kantonales-jagdgesetz-kjsg",
+   "short": "Kantonales Jagdgesetz, kJSG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Jagd und den Schutz wildlebender Säugetiere und Vögel",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/841.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 53,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.1",
+     "sha256": "0bc184f017c180f5ce4eb84b484e848b0584852ec7dd440a67811e0da29cda5b"
+    }
+   ]
+  },
+  {
+   "slug": "842-1-fischereigesetz-kfg",
+   "short": "Fischereigesetz, kFG",
+   "title": "Einführungsgesetz zum Bundesgesetz über die Fischerei",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/842.1",
+   "versions": [
+    {
+     "from": "1969-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/842.1/versions/688",
+     "sha256": "0dc29fdac567705dd4f48600dff58a3bd904216a9b8665472c7cee28f9f184ca"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 61,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/842.1/versions/1226",
+     "sha256": "a32a06a8d7450ecbef3b225b8c602c16fc70c0d6298357b7ac12f226d71b197f"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 61,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/842.1",
+     "sha256": "0ddf8d4303f9f40fbc453c78b91bf2de4ec385d0b941ee7a75f6c4f5848c24e4"
+    }
+   ]
+  },
+  {
+   "slug": "852-1-bergregalgesetz-brg",
+   "short": "Bergregalgesetz, BRG",
+   "title": "Gesetz über die Gewinnung mineralischer Rohstoffe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/852.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 67,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/852.1",
+     "sha256": "fe669ca4a193b9c3c484247abaa35fe09ecd78d0633df8aefe53afdc0fe52f2b"
+    }
+   ]
+  },
+  {
+   "slug": "853-1",
+   "short": "NG 853.1",
+   "title": "Gesetz über die Einfuhr und den Verkauf von Salz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/853.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/853.1",
+     "sha256": "fba13c9f6c723cfff67770b64d1c1e1cbb2acc4132478866bab70f81841bb27c"
+    }
+   ]
+  },
+  {
+   "slug": "854-1-gastgewerbegesetz-ggg",
+   "short": "Gastgewerbegesetz, GGG",
+   "title": "Gesetz über das Gastgewerbe und den Handel mit alkoholischen Getränken",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/854.1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 56,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/854.1",
+     "sha256": "84c3288413e472162226d878003714ab0fc89506852b4ec59b793331b539b2e9"
+    }
+   ]
+  },
+  {
+   "slug": "863-1-markt-und-reisendengesetz-mrg",
+   "short": "Markt- und Reisendengesetz, MRG",
+   "title": "Gesetz über die Märkte und das Reisendengewerbe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/863.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/863.1/versions/677",
+     "sha256": "fc4e9d3feffd107289a08c847f7cb263bf62131aa39da5b442eb161efe6ed952"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 15,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/863.1",
+     "sha256": "43e03e70acadaaa5886aacc9e7845fdc7cbff1274f0b282521385f5a40a88311"
+    }
+   ]
+  },
+  {
+   "slug": "865-1-tourismusforderungsgesetz-tfg",
+   "short": "Tourismusförderungsgesetz, TFG",
+   "title": "Gesetz über die Förderung des Tourismus",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/865.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 57,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/865.1",
+     "sha256": "3932b6fc335f49c2e4969cbe2d94f583ad6682329b4c97d0280ceb8e69bc5ed4"
+    }
+   ]
+  },
+  {
+   "slug": "866-1-kantonalbankgesetz-nkbg",
+   "short": "Kantonalbankgesetz, NKBG",
+   "title": "Gesetz über die Nidwaldner Kantonalbank",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/866.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 44,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/866.1",
+     "sha256": "0453faa106610d58ca3b65cb44ac2fa98c3c5ffa399a20d75c67b4e6b4ce851b"
+    }
+   ]
+  },
+  {
+   "slug": "867-1-sachversicherungsgesetz-nsvg",
+   "short": "Sachversicherungsgesetz, NSVG",
+   "title": "Gesetz über die Nidwaldner Sachversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/867.1",
+   "versions": [
+    {
+     "from": "2020-10-01",
+     "units": 73,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/867.1",
+     "sha256": "daa71b4194102a4bd383381aa3f40387c18076b41d29e84dbe531ad6c6620151"
+    }
+   ]
+  },
+  {
+   "slug": "867-3-hilfsfondsgesetz-hifg",
+   "short": "Hilfsfondsgesetz, HiFG",
+   "title": "Gesetz über die Vergütung nicht versicherbarer Elementarschäden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/867.3",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 46,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/867.3",
+     "sha256": "4dbd5a843817a6cc00b17cf4239f020f242b77e7bc65323d6e83fa73ff3c9582"
+    }
+   ]
+  },
+  {
+   "slug": "911-0-katastropheneinsatzgesetz-kateg",
+   "short": "Katastropheneinsatzgesetz, KatEG",
+   "title": "Gesetz über den Katastropheneinsatz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/911.0",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/911.0",
+     "sha256": "33c824c8021d131f4c98f8aa299c151e930c17f7209fe7e0abd2bedf602556e3"
+    }
+   ]
+  },
+  {
+   "slug": "911-1-polizeigesetz-polg",
+   "short": "Polizeigesetz, PolG",
+   "title": "Gesetz über das Polizeiwesen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/911.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 78,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/911.1/versions/666",
+     "sha256": "ff577b2427b128b18e5b565330c02106f7394ad340a75266bd87f7ecf5079ce5"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 78,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/911.1/versions/961",
+     "sha256": "412b2d1607e32b1b6a41fac3d792a97688b84829745d48f260ee8649cd2ace40"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 85,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/911.1/versions/1349",
+     "sha256": "23cafc045f742490265420350488efdfc0bd38a052b8d75214ed2a09b4c5bf82"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 86,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/911.1",
+     "sha256": "35c85a10ab348f35833904d046c8b3f32ae6f3c87bebaabcb960da7877c71809"
+    }
+   ]
+  },
+  {
+   "slug": "921-1-ruhetagsgesetz-rtg",
+   "short": "Ruhetagsgesetz, RTG",
+   "title": "Gesetz über die öffentlichen Ruhetage",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/921.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/921.1",
+     "sha256": "b053c92b7a58d0775561926c04bbb5ca33ea3c9796d52a6e6906af39a8b9f12c"
+    }
+   ]
+  },
+  {
+   "slug": "932-1-kantonales-geldspielgesetz-kgspg",
+   "short": "Kantonales Geldspielgesetz, kGSpG",
+   "title": "Einführungsgesetz zum Bundesgesetz über Geldspiele",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/932.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 28,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/932.1",
+     "sha256": "15f5b26579e7779341016f0fa1437983390b3a0cf231f020a51c8db3ecda3627"
+    }
+   ]
+  },
+  {
+   "slug": "121-11-kantonale-burgerrechtsverordnung-kbuv",
+   "short": "Kantonale Bürgerrechtsverordnung, kBüV",
+   "title": "Verordnung zum kantonalen Bürgerrechtsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/121.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/121.11/versions/1169",
+     "sha256": "3fea7e4890c59e8f1e7c94dab790932edb5bc270d9207fe6987e7c863682f8ab"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/121.11",
+     "sha256": "75ce651ac8bc6164f94590009a699afd31eeeed32184441e4a7372eb2fcd0604"
+    }
+   ]
+  },
+  {
+   "slug": "122-11-nav",
+   "short": "NAV",
+   "title": "Verordnung zum Gesetz über Niederlassung und Aufenthalt",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/122.11",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/122.11/versions/627",
+     "sha256": "4a12fbaeb13b6ec3598e99c3e31d9bb056f5599bc08ae883f5e223d3651b2d87"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/122.11",
+     "sha256": "e0c1a8bc46085464388c69539b3379c69d24bb8b0473a00851a3c326e022c56c"
+    }
+   ]
+  },
+  {
+   "slug": "122-21-auslanderverordnung-ausv",
+   "short": "Ausländerverordnung, AusV",
+   "title": "Verordnung zum Einführungsgesetz zum Ausländerrecht",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/122.21",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 18,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/122.21/versions/629",
+     "sha256": "53116f5d8feb3fa47851239b3ae7133b604e63fc1e3a4ebc72a75da34394ff91"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/122.21",
+     "sha256": "dd9896c6d4ccdb097f35d4a0462ebc1e9e5c1c73d0f8a5f7d134e0fc3146a0ab"
+    }
+   ]
+  },
+  {
+   "slug": "132-11-proporzverordnung-propv",
+   "short": "Proporzverordnung, PropV",
+   "title": "Vollzugsverordnung zum Gesetz über die Verhältniswahl des Landrates",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/132.11",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 20,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/132.11/versions/631",
+     "sha256": "b59b4e791d4b17d20cbb1fdbb8f4bcb4871dfedcca491358318b7d0ff09573c2"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 20,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/132.11",
+     "sha256": "513164588004cac752bc22c8c3a26f306ad4c193389936fe8045819d0398042b"
+    }
+   ]
+  },
+  {
+   "slug": "133-12-urnenabstimmungsverordnung-uav",
+   "short": "Urnenabstimmungsverordnung, UAV",
+   "title": "Vollzugsverordnung über Urnenabstimmungen in kommunalen Angelegenheiten",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/133.12",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 41,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/133.12/versions/1014",
+     "sha256": "d76e8b28485866be3ae6e0241fe4a2a9401cbb42b39f98f1bd385ca08e29519e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 41,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/133.12",
+     "sha256": "569d0d638e9683671f544c56c8656c348db320be983ccd4f0fef08fcef232ae4"
+    }
+   ]
+  },
+  {
+   "slug": "141-11-publikationsverordnung-puv",
+   "short": "Publikationsverordnung, PuV",
+   "title": "Verordnung zum Publikationsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/141.11",
+   "versions": [
+    {
+     "from": "2017-05-15",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/141.11/versions/776",
+     "sha256": "1fc30b383c2649b5ab1c9abf2b1d84b6c2944b2ce98edff54356fd3ec9889a3c"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/141.11/versions/907",
+     "sha256": "f660a7f823f8f3774e912c1f26c67523f39962a80fc22bad6afd9dceb45a204e"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/141.11",
+     "sha256": "80395617bd6647e9a0903be5dd0e527bca723f9a87ff62facc60db33ed8fec5f"
+    }
+   ]
+  },
+  {
+   "slug": "151-11-landratsreglement-lrr",
+   "short": "Landratsreglement, LRR",
+   "title": "Reglement über die Geschäftsordnung des Landrates",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/151.11",
+   "versions": [
+    {
+     "from": "2018-03-15",
+     "units": 123,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.11/versions/944",
+     "sha256": "7b505f818614efbafe02a61032c404386294754d59bb9d93fc6a7c2bc3eefce3"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 126,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.11/versions/1137",
+     "sha256": "62fc382a05fca4e8b1d792256f0a066580099ea977a09a86b04caec4140060b7"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 127,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.11/versions/1253",
+     "sha256": "fb64e6edb122e1c9f00171cc81f4a99aafa3930e6dce99ea6d63af4d684638fb"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 128,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/151.11",
+     "sha256": "679d7804ef00049a626805ec46aa4d3ff97c35ed3a10d6c83e60fade83c89e78"
+    }
+   ]
+  },
+  {
+   "slug": "152-11-regierungsratsverordnung-rrv",
+   "short": "Regierungsratsverordnung, RRV",
+   "title": "Vollzugsverordnung zum Gesetz über die Organisation des Regierungsrates und der Verwaltung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/152.11",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.11/versions/1375",
+     "sha256": "3b18f228a928f5b8a08940f1c6b0a748063ae5ac2d600e9006d0d87e307223e9"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.11/versions/1376",
+     "sha256": "9eee496e9ae256af49469eb286445412556803f7e18cd1f063507de174c630f3"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.11/versions/1377",
+     "sha256": "ed50709de35307a1c09634c52fd1c34a8286783a52d7c8df48a3d7f0effc20de"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.11/versions/1378",
+     "sha256": "dadfef0681d70fc9b4e93f6dd9c109f67af581522a797676f9cc87f206b0ec05"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.11/versions/1379",
+     "sha256": "47b55396f7d7ffe9df6558f984fe346141827990fb9dc44d007c482bb9d10af0"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 63,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.11/versions/1380",
+     "sha256": "78ef0370300b959460feb944ccc922eae8d84ee7916b3840c64def795fb49f10"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 62,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.11/versions/1499",
+     "sha256": "8fca478fe36b8cf0143e96da308f0cbaeb5e09df808de1d1c0038e05a0cf8dcc"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 62,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.11",
+     "sha256": "7ef3f852a33b2b67a5000e7961df161e0c7fd0e95ac28ae1a0c01bc4de2d728d"
+    }
+   ]
+  },
+  {
+   "slug": "152-12-informationsreglement-infor",
+   "short": "Informationsreglement, InfoR",
+   "title": "Reglement über die Information der Öffentlichkeit durch den Regierungsrat und die Verwaltung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/152.12",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.12",
+     "sha256": "723e1b9817c217f4ec4c9ca6cbbe29a3a54fcea459f3a2d73f1755ae59cd3786"
+    }
+   ]
+  },
+  {
+   "slug": "152-51-notstandsverordnung",
+   "short": "Notstandsverordnung",
+   "title": "Verordnung zum Gesetz für den Fall von Katastrophen und kriegerischen Ereignissen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/152.51",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 28,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.51/versions/654",
+     "sha256": "0518de0fa4cff3fdf4bdb0a63872339789d57333c7fb706452f99819912c0f3c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 28,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.51",
+     "sha256": "d06f0ba819a49d3095937bc83ea4acd2e302b53b33e13a21da35ad1d49cd786c"
+    }
+   ]
+  },
+  {
+   "slug": "152-511-notorganisationsreglement",
+   "short": "Notorganisationsreglement",
+   "title": "Reglement über die Notorganisation des Kantons Nidwalden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/152.511",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.511",
+     "sha256": "04dc01be8c69c185df32fc4808d8a4cbf95a370cfcf7cdc59dc27ecc221f45fb"
+    }
+   ]
+  },
+  {
+   "slug": "152-512-care-reglement",
+   "short": "CARE-Reglement",
+   "title": "Reglement über die Organisation CARE Nidwalden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/152.512",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/152.512",
+     "sha256": "259d0380cacc042504a3fbf2de8141741519e760936a60c5f1c8f5756c4d39dd"
+    }
+   ]
+  },
+  {
+   "slug": "165-111-personalverordnung-persv",
+   "short": "Personalverordnung, PersV",
+   "title": "Verordnung zum Personalgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/165.111",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 27,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.111/versions/655",
+     "sha256": "71e701fafdcebd751f592b22a658cc615aff8a0ddf8839c69cc4d6177da3e1bd"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 35,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.111/versions/1187",
+     "sha256": "44a63546028245dd4ad7b7241848dc962de7acaaf5c1453afee18e9a73286145"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 120,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.111",
+     "sha256": "ff1455cc2b0b63e18ef695062fbc6d691b64c2f6343e264b0d7abedbdb77a766"
+    }
+   ]
+  },
+  {
+   "slug": "165-115-parkplatzbenutzungsverordnung-parkbv",
+   "short": "Parkplatzbenützungsverordnung, ParkBV",
+   "title": "Vollzugsverordnung zum Personalgesetz betreffend die Benützung von Parkplätzen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/165.115",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.115",
+     "sha256": "0f4e0c0cdaded05325e906fd65d5efab69f2b8af1fe58e0d6ca32c38446c40eb"
+    }
+   ]
+  },
+  {
+   "slug": "165-116-verordnung-uber-das-vorschlagswesen",
+   "short": "Verordnung über das Vorschlagswesen",
+   "title": "Vollzugsverordnung zum Personalgesetz betreffend das Vorschlagswesen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/165.116",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 20,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.116",
+     "sha256": "90c3206a2579276f31ca03157cdf4455dfb8707b2a0e2813c06ebc0e6b83d88d"
+    }
+   ]
+  },
+  {
+   "slug": "165-117-lehrpersonalverordnung-lpv",
+   "short": "Lehrpersonalverordnung, LPV",
+   "title": "Verordnung betreffend die Lehrpersonen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/165.117",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 96,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.117/versions/1130",
+     "sha256": "df1f8b48f6baf0c8750c462f9542184a73de0ddd9919b7e3ee9233ca961160ce"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 94,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.117/versions/1166",
+     "sha256": "d9fcc1fa1953e8d6440d4c6823af4d351a43a7a792a9b0886e0d6e95b42d7898"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 94,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.117/versions/1218",
+     "sha256": "4ba96cba3d240a4f14533f0e19c8555c240ed1d034835f6984a0eb85339d5066"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 95,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.117/versions/1397",
+     "sha256": "15734538929ff782fdd2d64646051f88f2964de8f089acab96801f9644a9b8dd"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 95,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.117/versions/1417",
+     "sha256": "428027eb01300f432b1cd81d3aa5db69bea72137919fc59f612c2dc1528d2973"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 94,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/165.117",
+     "sha256": "fb4291318ae4c154d42cf19a71782ed99de838653c85fbf8b714e178914b63b4"
+    }
+   ]
+  },
+  {
+   "slug": "171-21-gemeindefinanzhaushaltverordnung-gemfhv",
+   "short": "Gemeindefinanzhaushaltverordnung, GemFHV",
+   "title": "Vollzugsverordnung zum Gesetz über den Finanzhaushalt der Gemeinden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/171.21",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/171.21",
+     "sha256": "cf70da5c907f23dd0de154473bcd26361081b152af459a46041c219363d64b32"
+    }
+   ]
+  },
+  {
+   "slug": "191-11",
+   "short": "NG 191.11",
+   "title": "Verordnung über die Verwaltung des Diözesanfonds",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/191.11",
+   "versions": [
+    {
+     "from": "1983-01-12",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/191.11",
+     "sha256": "3549d6cfdaa2151ddfdd18442cac3840f081ac9b2ab470a7a3d4145854de712e"
+    }
+   ]
+  },
+  {
+   "slug": "211-12-beistandsentschadigungsverordnung-bev",
+   "short": "Beistandsentschädigungsverordnung, BEV",
+   "title": "Vollzugsverordnung zum Einführungsgesetz zum Zivilgesetzbuch über die Entschädigung für Beiständinnen und Beistände",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/211.12",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.12",
+     "sha256": "c35ca452f650f9e6edfcefc08d26be64e1dc35a85d2ca556b5de8b7fe4483ecf"
+    }
+   ]
+  },
+  {
+   "slug": "211-15-vollziehungsverordnung-2-zum-eg-zgb",
+   "short": "Vollziehungsverordnung 2 zum EG ZGB",
+   "title": "Vollziehungsverordnung zum Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches betreffend das herrenlose Land und den Untergrund",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/211.15",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 20,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.15/versions/834",
+     "sha256": "17b0bdc3e747b9aa2406b945ff62aa124e930ba0a58b67675c3ea67bfe627918"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 20,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.15",
+     "sha256": "cce9df2eef4c1ac065e38f71cb5b27a05c37884b974dbac52447e7ca39e47f07"
+    }
+   ]
+  },
+  {
+   "slug": "211-31-grundstuckerwerbsverordnung",
+   "short": "Grundstückerwerbsverordnung",
+   "title": "Vollzugsverordnung zum Grundstückerwerbsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/211.31",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 4,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.31",
+     "sha256": "f12154c547b280f691c4aa7f039cf483650608fdc7d7182fbd9b4a9c1a2856e3"
+    }
+   ]
+  },
+  {
+   "slug": "211-41-flurgenossenschaftsverordnung-flurv",
+   "short": "Flurgenossenschaftsverordnung, FlurV",
+   "title": "Vollzugsverordnung zum Gesetz über die Flurgenossenschaften",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/211.41",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/211.41",
+     "sha256": "ef5cc413c7fe2b3d31a32d3c3075313afb39135a689b39b07e79090c920175d2"
+    }
+   ]
+  },
+  {
+   "slug": "214-11-kantonale-grundbuchverordnung-kgbv",
+   "short": "Kantonale Grundbuchverordnung, kGBV",
+   "title": "Vollziehungsverordnung zum Gesetz über das Grundbuch",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/214.11",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 38,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.11",
+     "sha256": "a3b81769eb848b0602870ea0f95cb4a7494db4c0fbcae775b1848a6b48adbf3c"
+    }
+   ]
+  },
+  {
+   "slug": "214-21-kantonale-geoinformationsverordnung-kgeoiv",
+   "short": "Kantonale Geoinformationsverordnung, kGeoIV",
+   "title": "Vollzugsverordnung zum kantonalen Geoinformationsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/214.21",
+   "versions": [
+    {
+     "from": "2012-12-01",
+     "units": 15,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.21/versions/936",
+     "sha256": "702e181c701a7d759dc372a030828609423e5b9e3d295fd6830909e43588dd14"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 15,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.21/versions/1054",
+     "sha256": "80dda5b6d8dfed61a00a0ee6d34ae025800f2b12da4f70cde1ddbdb01b8777d7"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 15,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.21/versions/1063",
+     "sha256": "7c19c10ed5301776ceb412aaacc0d262db71add1965574546037e52a57d4cca3"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 15,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.21/versions/1251",
+     "sha256": "5bfbe1a01a97627b8d3fc93ed87c0de1f0357f00e4403ff93dcc518ff8b85425"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.21",
+     "sha256": "47c233a4998b0184d8af28f04bea5ee0cc69cddafac735497eabafb34bca9459"
+    }
+   ]
+  },
+  {
+   "slug": "214-222",
+   "short": "NG 214.222",
+   "title": "Reglement über das Meldewesen der amtlichen Vermessung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/214.222",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.222/versions/620",
+     "sha256": "64788d3f2dc5c6f7b90c12cc3c928e899ac0cb5a80cfbe1e941758b78c3939c3"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/214.222",
+     "sha256": "3c7e9628ff455d58e6f889796b59b2d1d3d0bb8ac415dcbe48533aafd17f5b10"
+    }
+   ]
+  },
+  {
+   "slug": "232-21-kantonale-registerharmonisierungsverordnung-krhv",
+   "short": "Kantonale Registerharmonisierungsverordnung, kRHV",
+   "title": "Vollzugsverordnung zum kantonalen Registerharmonisierungsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/232.21",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/232.21",
+     "sha256": "a955d44c78e08ad89b78fef9d411adf1f859a9fb9a6f14c2c89bfe894b8d4467"
+    }
+   ]
+  },
+  {
+   "slug": "261-31-kantonale-ordnungsbussenverordnung-kobv",
+   "short": "Kantonale Ordnungsbussenverordnung, kOBV",
+   "title": "Verordnung zum Kantonalen Ordnungsbussengesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/261.31",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.31/versions/1391",
+     "sha256": "10d4844aa587a3fb07cbde0fb6b58e28f38c80515fddb4c43d1e72ccb86efee4"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.31/versions/1498",
+     "sha256": "80b533f2e95bd7c3ba4852c4d7d7037e537c538ca00bdeaf892ede10270a1ade"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/261.31",
+     "sha256": "ea7a968893ccfdbd723237b7de4320487a66fb55d52b323f991d6f3511562a67"
+    }
+   ]
+  },
+  {
+   "slug": "263-11-kantonale-strafregisterverordnung-kstrv",
+   "short": "Kantonale Strafregisterverordnung, kStRV",
+   "title": "Verordnung zur Bundesgesetzgebung über das Strafregister",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/263.11",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/263.11/versions/850",
+     "sha256": "b242d1280bb02de5e7043b81226281e46a9bf7ad642253253565dbb5803ce7ee"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 3,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/263.11",
+     "sha256": "ec704c4afc6d77edd14fe43df675d09a2e48a0a01c5e39ffe27a714eee292079"
+    }
+   ]
+  },
+  {
+   "slug": "263-13-kantonale-dna-profil-verordnung-kdnapv",
+   "short": "Kantonale DNA-Profil-Verordnung, kDNAPV",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/263.13",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/263.13",
+     "sha256": "23c3f485da76e8effaf8b85eda1450c20ecb8cdb0f1804b99fea6668c749a083"
+    }
+   ]
+  },
+  {
+   "slug": "263-14",
+   "short": "NG 263.14",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über die Bearbeitung biometrischer erkennungsdienstlicher Daten",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/263.14",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 3,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/263.14",
+     "sha256": "b08bae97a0889bab2643e03a4047ed1e5e1f71ac6c5e1aaffecfcadf2cd05d8b"
+    }
+   ]
+  },
+  {
+   "slug": "265-2-verfassungsgerichtsverordnung-vgv",
+   "short": "Verfassungsgerichtsverordnung, VGV",
+   "title": "Verordnung über das Verfahren vor dem Verfassungsgericht",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/265.2",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.2",
+     "sha256": "958bd51898a8b894eb58f8214cd1531f66f235f31c8c7e84b7d8fd98264e78dc"
+    }
+   ]
+  },
+  {
+   "slug": "265-51-gebuhrenverordnung-gebv",
+   "short": "Gebührenverordnung, GebV",
+   "title": "Verordnung zum Gesetz über die amtlichen Kosten",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/265.51",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.51/versions/920",
+     "sha256": "c08586992846cee508216fbfbe6f01fd5ee0b89f63a80cbe201fef65f0df5357"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.51/versions/1258",
+     "sha256": "92551774730c68a470677e36e30ca4b9f4cfb465a328c57d642543f0f9bdf122"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/265.51",
+     "sha256": "a094e97fb6f95cf57ebcde13aadef4a0d0a4efb5076ff7f0f40e6183c6269554"
+    }
+   ]
+  },
+  {
+   "slug": "266-11-kantonale-enteignungsverordnung-kentv",
+   "short": "Kantonale Enteignungsverordnung, kEntV",
+   "title": "Vollzugsverordnung zum Gesetz über die Enteignung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/266.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/266.11",
+     "sha256": "3aa10af67fb45f15f6aa7ae3c8f3f3b251ef77a7486f518da0098a2c70bfe1a3"
+    }
+   ]
+  },
+  {
+   "slug": "267-11-anwaltsverordnung",
+   "short": "Anwaltsverordnung",
+   "title": "Vollzugsverordnung zum Gesetz über die Ausübung des Anwaltsberufes",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/267.11",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/267.11/versions/859",
+     "sha256": "bfd3a3b4a637df0e65ceef3422d4840d28123339445c647c759158a87bc15f6c"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/267.11",
+     "sha256": "baae54afaa2a481a10c364ba439aa8eab8bd92e25eb2414b31837a2e9e90d3c5"
+    }
+   ]
+  },
+  {
+   "slug": "268-11-beurkundungsverordnung-beurkv",
+   "short": "Beurkundungsverordnung, BeurkV",
+   "title": "Vollziehungsverordnung zum Gesetz über die öffentliche Beurkundung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/268.11",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 67,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/268.11",
+     "sha256": "2a922ecbc1f3075df611b2e658a811b50d47fa77ecdfcca517f0a9fa4d2a1a81"
+    }
+   ]
+  },
+  {
+   "slug": "268-12-beurkundungsgebuhrenverordnung-beurkgebv",
+   "short": "Beurkundungsgebührenverordnung, BeurkGebV",
+   "title": "Verordnung über die Beurkundungsgebühren",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/268.12",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 62,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/268.12",
+     "sha256": "3e9ada303d84ca8071b27e51bd82651bf8c7cbe64c94c254ee807b3f75901082"
+    }
+   ]
+  },
+  {
+   "slug": "268-111-beurkundungsreglement-beurkr",
+   "short": "Beurkundungsreglement, BeurkR",
+   "title": "Reglement über die öffentliche Beurkundung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/268.111",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 21,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/268.111",
+     "sha256": "f80ced1f2f1c33d3284bb3444bacedc78d29a21b862de655ee39e65db590042d"
+    }
+   ]
+  },
+  {
+   "slug": "311-41-stipendienverordnung-stipv",
+   "short": "Stipendienverordnung, StipV",
+   "title": "Verordnung zum Gesetz über die Ausbildungsbeiträge",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/311.41",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.41/versions/581",
+     "sha256": "99edab4db7ec3810d9b5db06bc3a3d91dfdb080210e15c5c678cfd07f4bc328d"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.41",
+     "sha256": "1cc61a3571776c09bf6d5c9d19ce589086ba60bad0721bd0206cf3f8ba20926d"
+    }
+   ]
+  },
+  {
+   "slug": "311-52-nareg-vo",
+   "short": "NAREG-VO",
+   "title": "Verordnung zum Register über die Gesundheitsfachpersonen NAREG",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/311.52",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.52/versions/582",
+     "sha256": "3bd3f374d1f67a2006b81b8a58b8ee66d6dc7f196500250b81ddb311d4e3e6e4"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 20,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.52",
+     "sha256": "c1863f59fec92615f8b730b3c4967dc7f6febdbfa8120f749b4c99b935bffe74"
+    }
+   ]
+  },
+  {
+   "slug": "311-53-maturitatsanerkennungsreglement-mar",
+   "short": "Maturitätsanerkennungsreglement, MAR",
+   "title": "Reglement der EDK über die Anerkennung von gymnasialen Maturitätszeugnissen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/311.53",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 39,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/311.53",
+     "sha256": "79cddc01467d8dfb0eed3a831a8fd070f76e8db0f5890e3d94f39fc736cc1ab8"
+    }
+   ]
+  },
+  {
+   "slug": "312-11-volksschulverordnung-vsv",
+   "short": "Volksschulverordnung, VSV",
+   "title": "Verordnung zum Gesetz über die Volksschule",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/312.11",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 166,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/312.11/versions/1073",
+     "sha256": "a3c053b5759817fd2c6698887e9348d3ad640559d36d9f376e7ec280ba41b897"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 170,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/312.11/versions/1395",
+     "sha256": "ce046b4977b0493934f69798c3ed800b94de45495350d3c97c0fd575bf8a4b09"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 169,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/312.11",
+     "sha256": "88b79aca4b1ecf6fe73e4317b0e323eaf31cfddfb99e0d279214be2c72dd6cd1"
+    }
+   ]
+  },
+  {
+   "slug": "313-11-kantonale-berufsbildungsverordnung-kbbv",
+   "short": "Kantonale Berufsbildungsverordnung, kBBV",
+   "title": "Vollzugsverordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/313.11",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 67,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/313.11",
+     "sha256": "b15ed9ace3450bdfb61dfa5d1c7a087cfa7c11592acb015e614d4115a0fa00e8"
+    }
+   ]
+  },
+  {
+   "slug": "313-12-bruckenangebotsverordnung-brav",
+   "short": "Brückenangebotsverordnung, BrAV",
+   "title": "Vollzugsverordnung über die Brückenangebote für schulentlassene Jugendliche",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/313.12",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/313.12",
+     "sha256": "94c4600e93691dabf1086cabe8277b918df640d3e543d9dcb9ad2345ef2bdf36"
+    }
+   ]
+  },
+  {
+   "slug": "313-13-kantonale-berufsmaturitatsverordnung-kbmv",
+   "short": "Kantonale Berufsmaturitätsverordnung, kBMV",
+   "title": "Verordnung über die Berufsmaturität",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/313.13",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 15,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/313.13/versions/586",
+     "sha256": "320b3a559ddd13a32d777c57c4ac0875cb11aa93d242f6910d717d1c91ffee79"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/313.13/versions/1192",
+     "sha256": "6ad471ad8dc4fb2db970ea2b774db0eb2dc5c4759e702b41460089a08ddce7b1"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/313.13",
+     "sha256": "8189d867c8645f61c9788f8369cbddd0d561de5ee5cea6d12a1b57bc27c5c2e8"
+    }
+   ]
+  },
+  {
+   "slug": "313-113-aufnahmeverordnung-sog-fms-avsog",
+   "short": "Aufnahmeverordnung SOG/FMS, AVSOG",
+   "title": "Verordnung über die Aufnahme in schulisch organisierte Grundbildungen sowie in Fachmittelschulen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/313.113",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/313.113/versions/558",
+     "sha256": "a389c8e643d4696a124602c775b4465f4cda19a59a444be910baea5153cc1312"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/313.113",
+     "sha256": "d8f70f29e11635b3708eef3e5307cea0c577d913eae0276e1689fde29b097475"
+    }
+   ]
+  },
+  {
+   "slug": "314-11-mittelschulverordnung-msv",
+   "short": "Mittelschulverordnung, MSV",
+   "title": "Vollzugsverordnung zum Gesetz über die kantonale Mittelschule",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/314.11",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 91,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/314.11/versions/587",
+     "sha256": "85d3fbf5d36e6c21aff679be15f9965e154311f6576587acee4f0a9c63ae73be"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 91,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/314.11/versions/930",
+     "sha256": "d7225d23c627f7d23bfccfd9abcfcc06d4ec8042620b30831fbeb40e641bc30c"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 91,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/314.11",
+     "sha256": "df842f9d69a868870ad57485571f26fcbecaab9153ad8a50520346fd78dabd7d"
+    }
+   ]
+  },
+  {
+   "slug": "314-12-kantonale-maturitatsverordnung",
+   "short": "Kantonale Maturitätsverordnung",
+   "title": "Vollzugsverordnung betreffend die Maturitätsprüfung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/314.12",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 27,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/314.12",
+     "sha256": "44072fef4ba8b864d3eca9bf4b39333eac854eba4a9569f885d11139dfda0c7a"
+    }
+   ]
+  },
+  {
+   "slug": "314-111-maturitatsarbeitsreglement-mr",
+   "short": "Maturitätsarbeitsreglement, MR",
+   "title": "Reglement über die Maturitätsarbeit an der kantonalen Mittelschule",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/314.111",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 15,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/314.111/versions/564",
+     "sha256": "ef3dfb464218399b1395f34e3f10b021f99c22d6d05cf57eb7b1ab092b8710ab"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/314.111",
+     "sha256": "f39b6353490d4ae5e18fed42d62fc900478495e1ee657399aa8f3c6f1eef34f6"
+    }
+   ]
+  },
+  {
+   "slug": "319-11-sportverordnung",
+   "short": "Sportverordnung",
+   "title": "Vollzugsverordnung zum Gesetz über die Förderung von Turnen und Sport",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/319.11",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/319.11",
+     "sha256": "fffc694d5e0cb83af57ebca977babccb234f642bc2c3015e6f6d8bab064dab50"
+    }
+   ]
+  },
+  {
+   "slug": "321-11-kulturforderungsverordnung",
+   "short": "Kulturförderungsverordnung",
+   "title": "Vollzugsverordnung zum Gesetz über die Förderung des kulturellen Lebens",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/321.11",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 30,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/321.11",
+     "sha256": "823c7a77167ca9b2b21e43eea4bc0ab3c9a0be43e98eea3617de1b0028ad7c2e"
+    }
+   ]
+  },
+  {
+   "slug": "321-111-bibliotheksreglement",
+   "short": "Bibliotheksreglement",
+   "title": "Reglement über die Benutzung der Kantonsbibliothek",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/321.111",
+   "versions": [
+    {
+     "from": "1996-08-01",
+     "units": 39,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/321.111/versions/792",
+     "sha256": "19519d64ccab6ff4e4ab06e94dc7d3b83c9134fe361b09fed4cb4b1ead7181b2"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/321.111",
+     "sha256": "5f6d91deb8c03679697d2db68c8bd8a209268e62d4795a584a3c5665b3439687"
+    }
+   ]
+  },
+  {
+   "slug": "322-11-kantonale-kulturguterschutzverordnung-kkgsv",
+   "short": "Kantonale Kulturgüterschutzverordnung, kKGSV",
+   "title": "Vollzugsverordnung zum Gesetz über den Schutz der Kulturgüter",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/322.11",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/322.11",
+     "sha256": "0d3455ff5c6a514df3be0e3f9a1c2caaf4729696e469358ee8e90200be306cf8"
+    }
+   ]
+  },
+  {
+   "slug": "322-21-denkmalschutzverordnung-dschv",
+   "short": "Denkmalschutzverordnung, DSchV",
+   "title": "Vollzugsverordnung zum Gesetz über den Schutz der Kulturdenkmäler",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/322.21",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 23,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/322.21/versions/992",
+     "sha256": "378477f5c55527580dbb1d81fdfa5d0fa45be9a132befa85db1d44914643fecf"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/322.21",
+     "sha256": "85d24d1dfcaccc4598ef7c93d827008a1cff73c47b19642651a39716a1af9e2e"
+    }
+   ]
+  },
+  {
+   "slug": "323-11-archivierungsverordnung-archv",
+   "short": "Archivierungsverordnung, ArchV",
+   "title": "Vollzugsverordnung zum Archivierungsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/323.11",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 41,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/323.11",
+     "sha256": "df3fb2c2e69c8d75bb5022c625606fc82908275ea2b7887e7c6e1a154811214d"
+    }
+   ]
+  },
+  {
+   "slug": "331-11-naturschutzverordnung-nschv",
+   "short": "Naturschutzverordnung, NSchV",
+   "title": "Vollzugsverordnung zum Gesetz über den Natur- und Landschaftsschutz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/331.11",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 29,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/331.11",
+     "sha256": "757a16e423a39b8974f04fd9539653ef1e36711834144d1ab43d390751c26d2d"
+    }
+   ]
+  },
+  {
+   "slug": "331-12-pschv",
+   "short": "PSchV",
+   "title": "Verordnung über Pflegebeiträge in Schutzgebieten",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/331.12",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/331.12",
+     "sha256": "85a5b47c61effea09eae0294b499e9e512f3ed1a06c5b09ba2c6272153b85152"
+    }
+   ]
+  },
+  {
+   "slug": "331-13",
+   "short": "NG 331.13",
+   "title": "Verordnung über den Schutz bedrohter Tiere und Pflanzen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/331.13",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/331.13/versions/572",
+     "sha256": "4d447b82e83c20720783bac1e34396c4fc5af06d925474058e4f13f589356785"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/331.13",
+     "sha256": "fa6e69be92d5174a5cabe7e90e8acaa8bef67e14821b0058f12f5bfe361eda13"
+    }
+   ]
+  },
+  {
+   "slug": "332-11-biotopschutzverordnung-bschv",
+   "short": "Biotopschutzverordnung, BSchV",
+   "title": "Verordnung über den Schutz der Moore und Trockenstandorte",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/332.11",
+   "versions": [
+    {
+     "from": "2017-05-17",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/332.11/versions/659",
+     "sha256": "a6030f7bfee41e8c90cf1ee212fc7b8f631ef210b30e77e8115513d75ff6f607"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/332.11",
+     "sha256": "74fd9021cd67d078054c2a0c1fa547e58424f9cbc8350f2de2ab5e8cd86ebd8b"
+    }
+   ]
+  },
+  {
+   "slug": "332-12",
+   "short": "NG 332.12",
+   "title": "Verordnung über den Schutz des Gnappiriedes in der Gemeinde Stans",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/332.12",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/332.12",
+     "sha256": "ae18b81932d9e06e56b11eca9b04eed2ac0e8aa816c92996b58d79a8efe57e07"
+    }
+   ]
+  },
+  {
+   "slug": "332-14",
+   "short": "NG 332.14",
+   "title": "Verordnung über den Schutz des Stansstaderriedes",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/332.14",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 18,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/332.14",
+     "sha256": "28d9e83dde079447f8a684e30df9f27f9d92f5d1abc8b3f879f695892a413c7b"
+    }
+   ]
+  },
+  {
+   "slug": "332-21-landschaftsschutzverordnung-lschv",
+   "short": "Landschaftsschutzverordnung, LSchV",
+   "title": "Verordnung über die Landschaftsschutzzonen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/332.21",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 21,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/332.21",
+     "sha256": "70b728f68846ad0138d837664a193faaaef9d5b435ad30b0af4f8467a743257d"
+    }
+   ]
+  },
+  {
+   "slug": "411-1-militarverordnung",
+   "short": "Militärverordnung",
+   "title": "Einführungsverordnung zum Militärgesetz und zum Militärstrafgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/411.1",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/411.1",
+     "sha256": "2abd40e80474f69d54510d733837874e8eb1dd5ffde5f317e1b5ff92debf4959"
+    }
+   ]
+  },
+  {
+   "slug": "413-1-wehrpflichtersatzverordnung-kwpev",
+   "short": "Wehrpflichtersatzverordnung, kWPEV",
+   "title": "Verordnung zum Bundesgesetz über die Wehrpflichtersatzabgabe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/413.1",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/413.1/versions/871",
+     "sha256": "b3a7aad59b71e6bdf5d747e0f2f75a14ed38dd1b4f46b6d44418cd931067404f"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/413.1",
+     "sha256": "c7195f35d03412c581a879c82f9c054e0efaea8367b7fd795d5fe3ef7a996dfd"
+    }
+   ]
+  },
+  {
+   "slug": "421-11-kantonale-zivilschutzverordnung",
+   "short": "Kantonale Zivilschutzverordnung",
+   "title": "Vollzugsverordnung zum kantonalen Zivilschutzgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/421.11",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/421.11/versions/660",
+     "sha256": "f3ad5e32dac0fbc7be1f5c51eb881a17b8a5089ad9609ad6a8f7b27519a882d0"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/421.11",
+     "sha256": "c25c2ad3d51ee3c257309081b37f0b51a615d5085929fb712e5e8f2f629e2f7a"
+    }
+   ]
+  },
+  {
+   "slug": "431-11-landesversorgungsverordnung-klvv",
+   "short": "Landesversorgungsverordnung, kLVV",
+   "title": "Vollzugsverordnung zum Kantonalen Landesversorgungsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/431.11",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/431.11/versions/873",
+     "sha256": "76368d42bb5fa18a2bc85de86d29a09bcbbaedd1b29f5d3adaa42f7c413c74ed"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/431.11",
+     "sha256": "8c3a4d2bfcee22eefcb1d65e105c44e97363f9515086306dfa701b2a08877c8e"
+    }
+   ]
+  },
+  {
+   "slug": "511-11-finanzhaushaltverordnung-kfhv",
+   "short": "Finanzhaushaltverordnung, kFHV",
+   "title": "Vollzugsverordnung zum Gesetz über den Finanzhaushalt des Kantons",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/511.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/511.11",
+     "sha256": "73213650545ce484b3e4885ddea9bf7b3f19b10f5842999e925d17e97985b0ba"
+    }
+   ]
+  },
+  {
+   "slug": "511-12-iks-verordnung-iksv",
+   "short": "IKS-Verordnung, IKSV",
+   "title": "Verordnung über das Interne Kontrollsystem",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/511.12",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/511.12",
+     "sha256": "0847070c9dc7aa0be1d1d4be0217a6ae00c882b8f7a0baa4bdeac82252df465f"
+    }
+   ]
+  },
+  {
+   "slug": "521-11-steuerverordnung-stv",
+   "short": "Steuerverordnung, StV",
+   "title": "Verordnung zum Gesetz über die Steuern des Kantons und der Gemeinden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/521.11",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 142,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.11/versions/888",
+     "sha256": "e330e6b580f49d974fa733759a4695001454277d5fe9eabd21b84e8e65087e9f"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 142,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.11/versions/1008",
+     "sha256": "12cf7a7e9301a776fd01d65ac7f1eba5cd2861690897779e692fd2bff56ea124"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 142,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.11/versions/1085",
+     "sha256": "4b6128665b1500af5aae007dc7ab3566c318014e4edf3307a806a220a8834d48"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 142,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.11/versions/1292",
+     "sha256": "d053259a531b98aca4e109c36b9225ee8553f337d9b8ab3de54ef1d7aa86874c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 154,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.11/versions/1329",
+     "sha256": "d1326c463316ab0957cfa79c67939eec3d2c1aa047baa5baecad9b6facc4057b"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 154,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/521.11",
+     "sha256": "041d699ceecfeb2c0ba8814249865cfcd4cb560adacb9534866c0401369ddb3a"
+    }
+   ]
+  },
+  {
+   "slug": "531-11",
+   "short": "NG 531.11",
+   "title": "Vollzugsverordnung zum Einführungsgesetz zur direkten Bundessteuer",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/531.11",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/531.11",
+     "sha256": "b21add392cde0405df08db248ec66c5e78a418f218c99f084757b033a4e8d39d"
+    }
+   ]
+  },
+  {
+   "slug": "532-1-kantonale-verrechnungssteuerverordnung",
+   "short": "Kantonale Verrechnungssteuerverordnung",
+   "title": "Einführungsverordnung zum Bundesgesetz über die Verrechnungssteuer",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/532.1",
+   "versions": [
+    {
+     "from": "2001-09-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/532.1",
+     "sha256": "9e7ffc7b9e75f78be48462fd9355cf3011340669eedfe198ccea8bc74fd2c420"
+    }
+   ]
+  },
+  {
+   "slug": "611-4-kantonale-zweitwohnungsverordnung-kzwv",
+   "short": "Kantonale Zweitwohnungsverordnung, kZWV",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über Zweitwohnungen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/611.4",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.4",
+     "sha256": "ba62c7672c3dc47042b67bb6a5cd009ab981970c730b8360131339118f0ca102"
+    }
+   ]
+  },
+  {
+   "slug": "611-011-bauverordnung",
+   "short": "Bauverordnung",
+   "title": "Vollziehungsverordnung zum Gesetz über die Raumplanung und das öffentliche Baurecht",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/611.011",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 95,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.011/versions/891",
+     "sha256": "b00b0ddb62eff3df7827843d3a365163771343da78abaf072627c6d4da12d61d"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 95,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.011",
+     "sha256": "23dba757f3bf331970102fdbdcbb7232bbce6893a35429c1a81ffbaa2f5a47c0"
+    }
+   ]
+  },
+  {
+   "slug": "611-11-planungs-und-bauverordnung-pbv",
+   "short": "Planungs- und Bauverordnung, PBV",
+   "title": "Verordnung zum Planungs- und Baugesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/611.11",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 81,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.11/versions/1190",
+     "sha256": "3cfa804edd807bda4f45917aaead57ec586526c9e69f8ff78bb0d6ea32f3da4f"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 84,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.11/versions/1223",
+     "sha256": "f5ce72a3a6ba34a687b499f44ebfe0503a3a156191db13ee78bf63c2084cc097"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 84,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.11/versions/1402",
+     "sha256": "17013e4b71bc56b59d8787c831f85a18bb65c5f22ff48afcf6a83568331e453e"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 84,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.11",
+     "sha256": "289fbc7e85e2e81171e406e0b81b73226688045f50d70102f19aea24d22fe015"
+    }
+   ]
+  },
+  {
+   "slug": "611-12-reklamenverordnung-reklv",
+   "short": "Reklamenverordnung, ReklV",
+   "title": "Verordnung über Aussen- und Strassenreklamen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/611.12",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 56,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.12/versions/811",
+     "sha256": "f8e06bd34aa638d68e13351f3b38ae5d52213734e9b9cb8e66d6389610bd69d4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 56,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.12/versions/1447",
+     "sha256": "2d9efcc1e9e73fef4a954b7a9dde826af1971348cad6dd8749fcd4206d938654"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/611.12",
+     "sha256": "4eb48dbda5126131a9b6d9acf5979b8e54ede3aca6b8401c1f54921cff7fda69"
+    }
+   ]
+  },
+  {
+   "slug": "612-11-ivobv",
+   "short": "IVöBV",
+   "title": "Verordnung zum Gesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/612.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 44,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/612.11/versions/808",
+     "sha256": "cbadc6b1d8d0acb263c7a224d26812776d25bd1cbce1c62e416b64c0ea5c516c"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 7,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/612.11",
+     "sha256": "372173196216f69f9b52975ac09bfa1a55fffcb107469740c378fdc7f5d7a989"
+    }
+   ]
+  },
+  {
+   "slug": "613-11-brandschutz-und-feuerwehrverordnung-bfv",
+   "short": "Brandschutz- und Feuerwehrverordnung, BFV",
+   "title": "Vollzugsverordnung zum Gesetz über den Brandschutz und die Feuerwehr",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/613.11",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 54,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/613.11",
+     "sha256": "83468bc7fd545d71a324ec3cfbc36ab8b593134665dad341aa6cfd8264fce36e"
+    }
+   ]
+  },
+  {
+   "slug": "613-12-feuerwehrentschadigungsverordnung-fev",
+   "short": "Feuerwehrentschädigungsverordnung, FEV",
+   "title": "Vollzugsverordnung betreffend die Entschädigung für die Angehörigen der Feuerwehr",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/613.12",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/613.12",
+     "sha256": "e28c3bb296b7860582157e1a34aa127790be526142f6a94a34375f67494e5a48"
+    }
+   ]
+  },
+  {
+   "slug": "613-112-beitragsreglement-brandbekampfung",
+   "short": "Beitragsreglement Brandbekämpfung",
+   "title": "Reglement über Beitragsleistungen an die Brandbekämpfung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/613.112",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/613.112",
+     "sha256": "a91dfef74908fd2aaaedab61ed573c634ca0d4af4a9e3b6cf69a8d0115cdf6df"
+    }
+   ]
+  },
+  {
+   "slug": "614-11-mountainbikeweg-entschadigungsverordnung-mev",
+   "short": "Mountainbikeweg-Entschädigungsverordnung, MEV",
+   "title": "Verordnung zur Entschädigung bei der Ersterstellung von Mountainbikewegen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/614.11",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/614.11",
+     "sha256": "1e726102f36bbc56f1a9445c1fa560d1bb00427debadc1f34290430fd643c6b1"
+    }
+   ]
+  },
+  {
+   "slug": "621-11-kantonale-nationalstrassenverordnung-knsv",
+   "short": "Kantonale Nationalstrassenverordnung, kNSV",
+   "title": "Einführungsverordnung zum Bundesgesetz über die Nationalstrassen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/621.11",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/621.11/versions/1261",
+     "sha256": "e99ce3632b568499b204ecb6b8622315ff4c640b5fa4fdb48f7503d49df79966"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/621.11",
+     "sha256": "30e506819f29b9919eedb8b55ec6c25847dc262c11db1689ca6c657d37bc0f3e"
+    }
+   ]
+  },
+  {
+   "slug": "622-11-strassenverordnung-strv",
+   "short": "Strassenverordnung, StrV",
+   "title": "Verordnung zum Strassengesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/622.11",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 36,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/622.11/versions/815",
+     "sha256": "b3f51aecce0063cf08e4891529140d46bfab23a55cd4cddea588f20c8f4128b6"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/622.11",
+     "sha256": "fd9291b1454748b3931973d3db303a6cd3e799ab30d90b48bfe6db854cf5de90"
+    }
+   ]
+  },
+  {
+   "slug": "622-14-perimeterverordnung-periv",
+   "short": "Perimeterverordnung, PeriV",
+   "title": "Vollzugsverordnung über das Perimeterverfahren",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/622.14",
+   "versions": [
+    {
+     "from": "2016-06-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/622.14",
+     "sha256": "66e5e00b31b0e8c0041eb7298ec2d77ba9b05115e193fa0e511701c4e70161db"
+    }
+   ]
+  },
+  {
+   "slug": "631-11-gewasserverordnung-gewv",
+   "short": "Gewässerverordnung, GewV",
+   "title": "Vollzugsverordnung zum Gewässergesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/631.11",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 47,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/631.11/versions/892",
+     "sha256": "15b7d1e32b750d8973b3113d203cbcc44e8fce38bc9ab67849422f57c0c30ab0"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 47,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/631.11/versions/1125",
+     "sha256": "1ba42313e364195e79d470079f985bd82b560fbae112becdf5e62c3a0ee38cc6"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 47,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/631.11/versions/1141",
+     "sha256": "0bc7504b4f72ec9d15fccca22be83adc129f09f71983a5655980d14d609af2fa"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 47,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/631.11",
+     "sha256": "95ccb1c2564d13e36937217b6a1f79be56de390a24ebf10cd54ae0a3b570a414"
+    }
+   ]
+  },
+  {
+   "slug": "641-11-kantonale-energieverordnung-kenv",
+   "short": "Kantonale Energieverordnung, kEnV",
+   "title": "Vollzugsverordnung zum Gesetz über die sparsame Energienutzung und die Förderung erneuerbarer Energien",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/641.11",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 58,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/641.11/versions/650",
+     "sha256": "e80e42351a1b1859da1a986e7291713c03cc39c7db957a0c0e97a62adc0bd564"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 59,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/641.11",
+     "sha256": "5fa320f63c05c309e445c34f9ef7319dce9f5da937830eba083719244aca0b0c"
+    }
+   ]
+  },
+  {
+   "slug": "642-12",
+   "short": "NG 642.12",
+   "title": "Reglement über die allgemeinen Bedingungen für die Netznutzung und die Lieferung elektrischer Energie",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/642.12",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/642.12",
+     "sha256": "795b6f450492cb8c675eb4d80bdc38cb5ca4ff28c14064705358d0c9ed5d671e"
+    }
+   ]
+  },
+  {
+   "slug": "642-121",
+   "short": "NG 642.121",
+   "title": "Reglement für Anschlüsse an das Verteilnetz des EWN",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/642.121",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 30,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/642.121",
+     "sha256": "a0580648b27404c528e8e21c625ef7bfa763776224d24dc01b3571c9d5480674"
+    }
+   ]
+  },
+  {
+   "slug": "651-112-parkplatzreglement",
+   "short": "Parkplatzreglement",
+   "title": "Reglement betreffend das Parkieren von Motorfahrzeugen auf kantonseigenen oder vom Kanton gemieteten Liegenschaften",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/651.112",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/651.112/versions/806",
+     "sha256": "b9de88741da8ecd7b5b210f05c95fdcd45052186de1d5efbd1edcac10f924bff"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/651.112/versions/1062",
+     "sha256": "70ffebb473ff88247b803fdc81ed0883f27100bc48dea83343fce5cd8fd24e91"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/651.112/versions/1136",
+     "sha256": "60961147e35b36d4094544acf237c7082888071ad6ddbef28920db57b2081722"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/651.112",
+     "sha256": "4fc9fa1be135f3e88dcafd16e9951a897a6bdb5e0904b211b4a1553cac0d741a"
+    }
+   ]
+  },
+  {
+   "slug": "653-1",
+   "short": "NG 653.1",
+   "title": "Verordnung über den Beitritt des Kantons Nidwalden zum Konkordat über die nicht eidgenössisch konzessionierten Luftseilbahnen und Skilifte",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/653.1",
+   "versions": [
+    {
+     "from": "1966-01-15",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/653.1",
+     "sha256": "dcfc15613e08893429642380e1aa2befb70d52e25cc19241f97b0cbe495ba241"
+    }
+   ]
+  },
+  {
+   "slug": "653-111-reglement-ikss",
+   "short": "Reglement IKSS",
+   "title": "Reglement über Bau und Betrieb der nicht eidgenössisch konzessionierten Seilbahnen und Skilifte",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/653.111",
+   "versions": [
+    {
+     "from": "2022-06-02",
+     "units": 44,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/653.111",
+     "sha256": "ac2741499b791f01a798b3ce44371fc5bbda022bcb2d5e7b80058ff49c7cd703"
+    }
+   ]
+  },
+  {
+   "slug": "654-11-schifffahrtsverordnung",
+   "short": "Schifffahrtsverordnung",
+   "title": "Vollzugsverordnung zum Schifffahrtsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/654.11",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/654.11/versions/758",
+     "sha256": "01e228560c5c3f22e252f34ea049d4542cabeaf0901b3753faec2db173db0886"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/654.11",
+     "sha256": "27ecb488a210c0e3b94a8bcc8f296003387bdbf6577c3d927ea9fa78e1bd5f58"
+    }
+   ]
+  },
+  {
+   "slug": "654-12-vmrb",
+   "short": "VMRB",
+   "title": "Verordnung über die Melde-, Reinigungs- und Bewilligungspflicht für Schiffe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/654.12",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/654.12",
+     "sha256": "d872dadd172e2b7dbd996f9ddd60ee4e79ec4512e65a87adba1b8cbd4a5abd76"
+    }
+   ]
+  },
+  {
+   "slug": "655-11-kantonale-luftfahrtsverordnung-klfv",
+   "short": "Kantonale Luftfahrtsverordnung, kLFV",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über die Luftfahrt",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/655.11",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/655.11/versions/787",
+     "sha256": "555badc304252c572e7185cb1039d4e105e5f1ca06a3cae1a4f08a815c7337e2"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/655.11",
+     "sha256": "7b9697ec04a45f1b917680f19bdc82f5be4d0b8d7e7e7cbac42af9a5875dfd18"
+    }
+   ]
+  },
+  {
+   "slug": "711-11-gesundheitsverordnung-gesv",
+   "short": "Gesundheitsverordnung, GesV",
+   "title": "Verordnung zum Gesundheitsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/711.11",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 61,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/711.11/versions/756",
+     "sha256": "a4e481c69f82fee6a51ace833446ca6bd75b7f3139746793d317b1a352cf08ec"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 61,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/711.11/versions/1404",
+     "sha256": "9bf61fbf34b9a4edeac58ba89f1077ab47c05441e7a9ff0b5b81aeec858630a5"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 53,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/711.11",
+     "sha256": "59326b56b2cfca190788bc888d6c9da81c23e36702a5e5ede6182b72f64c427b"
+    }
+   ]
+  },
+  {
+   "slug": "711-15-kantonale-passivrauchschutzverordnung-kprsv",
+   "short": "Kantonale Passivrauchschutzverordnung, kPRSV",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung zum Schutz vor Passivrauchen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/711.15",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/711.15",
+     "sha256": "503010b75979f5242cf8e250d3d66f5847ad74f92eca3926f12521e46bd8a2e5"
+    }
+   ]
+  },
+  {
+   "slug": "712-11-pflegeausbildungsforderungsverordnung-pafv",
+   "short": "Pflegeausbildungsförderungsverordnung, PAFV",
+   "title": "Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/712.11",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/712.11",
+     "sha256": "a126df992dba8d0319a2a47135fd01089fde532f1c2e5eae583279a3e5942ade"
+    }
+   ]
+  },
+  {
+   "slug": "714-13",
+   "short": "NG 714.13",
+   "title": "Verordnung über den Patientenfonds des Kantonsspitals",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/714.13",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 9,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/714.13",
+     "sha256": "1b70567ac998c98372ab4cacffd6db0cc8fe1c165e7bf531dd7f8132d7c11fae"
+    }
+   ]
+  },
+  {
+   "slug": "715-2-friedhofs-und-bestattungsverordnung-fbv",
+   "short": "Friedhofs- und Bestattungsverordnung, FBV",
+   "title": "Vollzugsverordnung über die Friedhöfe und Bestattungen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/715.2",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 33,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/715.2",
+     "sha256": "72ccf0e83a345e0c4f5ee2c68ac5feb688b8c33c112e845552b73471d4e28a13"
+    }
+   ]
+  },
+  {
+   "slug": "716-1-kantonale-betaubungsmittelverordnung-kbetmv",
+   "short": "Kantonale Betäubungsmittelverordnung, kBetmV",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über die Betäubungsmittel",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/716.1",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 11,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/716.1/versions/750",
+     "sha256": "516b444784ac4c27988f8e19e36246fd112b261776ce565dd84ed878c3309436"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 11,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/716.1",
+     "sha256": "a4e2ab3c5087af6093be8efa1e2ae51dcfc7c344f42bd2f9937ffa79eae0c818"
+    }
+   ]
+  },
+  {
+   "slug": "717-11-lebensmittel-und-veterinarverordnung-lvv",
+   "short": "Lebensmittel- und Veterinärverordnung, LVV",
+   "title": "Vollzugsverordnung zum Lebensmittel- und Veterinärgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/717.11",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 28,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/717.11",
+     "sha256": "97dd803291fda803c3c58f7b5edbcf7d29795feac439b7cde1f9f2f51dea233c"
+    }
+   ]
+  },
+  {
+   "slug": "721-11-kantonale-umweltschutzverordnung-kusv",
+   "short": "Kantonale Umweltschutzverordnung, kUSV",
+   "title": "Vollzugsverordnung zum kantonalen Umweltschutzgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/721.11",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 47,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/721.11/versions/932",
+     "sha256": "95081c9584038e6213a9a13eb3080c5ecce791826b4cb91a51828b536605f3b2"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 47,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/721.11/versions/1147",
+     "sha256": "33ac0aa07c749d38429fedf9c30d948ed44d6adbc62fab5d616cdcff0d139c98"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 46,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/721.11",
+     "sha256": "1b8835906550d8073695f388d25bd0986ea2cb00a36d0c7304ead673825a50d7"
+    }
+   ]
+  },
+  {
+   "slug": "721-12-kantonale-chemikalienverordnung-kchemv",
+   "short": "Kantonale Chemikalienverordnung, kChemV",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über den Schutz vor gefährlichen Stoffen und Zubereitungen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/721.12",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/721.12/versions/746",
+     "sha256": "ef728646276f1dbf8df6fea933feebb8f65ecd19fc1048f601a9eff744a36c06"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/721.12",
+     "sha256": "b037f5486d2b2161d210dc30f476768c6279abe6ae2083077ee9d9ef29f99adf"
+    }
+   ]
+  },
+  {
+   "slug": "721-13-smog-verordnung",
+   "short": "SMOG-Verordnung",
+   "title": "Vollzugsverordnung zur kurzfristigen Bekämpfung übermässiger Luftschadstoff-Immissionen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/721.13",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/721.13/versions/905",
+     "sha256": "dee0244f9b41fd9d775173479045e6284f49b5fda9977bff3bf2c8a86bd64759"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/721.13",
+     "sha256": "888c06f87fc0865350829683725db5ee22798ea9a3058b9865882bbe0cb6eb3f"
+    }
+   ]
+  },
+  {
+   "slug": "731-1-kantonale-arbeitsverordnung-karv",
+   "short": "Kantonale Arbeitsverordnung, kArV",
+   "title": "Einführungsverordnung zum Bundesgesetz über die Arbeit in Industrie, Gewerbe und Handel",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/731.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/731.1/versions/737",
+     "sha256": "1826e0b3d2ca12607255e969e86d8675395af9b6d8b81459d2c895fb1ae1b1b4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/731.1",
+     "sha256": "fed9a5757e50de37fdffc04a428e13e8530a57ff31ad76b693a98ddcedaa1d99"
+    }
+   ]
+  },
+  {
+   "slug": "731-2",
+   "short": "NG 731.2",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über die Heimarbeit",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/731.2",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/731.2",
+     "sha256": "7d077886641ab9a8585832e48f3dcee0ce490cc947cf6e8c92eb3524d2e6e78c"
+    }
+   ]
+  },
+  {
+   "slug": "741-2",
+   "short": "NG 741.2",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über die Invalidenversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/741.2",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.2",
+     "sha256": "489ff219aaa250ed5096d5cc32139b6e14e120cbd060009534d11c48129f0ba0"
+    }
+   ]
+  },
+  {
+   "slug": "741-11-ausgleichskassenverordnung-akv",
+   "short": "Ausgleichskassenverordnung, AKV",
+   "title": "Vollziehungsverordnung zum Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/741.11",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 21,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.11",
+     "sha256": "d3db088759ec5b4d8a1efcd9f522fb479f80e7bf5467df8e45fcfce8feb02001"
+    }
+   ]
+  },
+  {
+   "slug": "741-31-kantonale-erganzungsleistungsverordnung-kelv",
+   "short": "Kantonale Ergänzungsleistungsverordnung, kELV",
+   "title": "Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/741.31",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 35,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.31",
+     "sha256": "8938544bb1224a021c99ba7e948d21450989d30c26258642820c12b507fecace"
+    }
+   ]
+  },
+  {
+   "slug": "741-32",
+   "short": "NG 741.32",
+   "title": "Verordnung zur Begrenzung der anrechenbaren Pflegeheimkosten im Bereich der Ergänzungsleistungen für das Jahr 2026",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/741.32",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 4,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.32/versions/532",
+     "sha256": "643972378d497bd83386f488c4d8e7800559650434f358546222eb0e952d2a53"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.32/versions/997",
+     "sha256": "3049fe5c78ab50e50e87f4dda2e72c400f55dbd9e7982b440788d4aad5cbdbce"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.32/versions/1097",
+     "sha256": "04c8045516cec6cd97ccc1c874d3ec79022d08cb8b499a0d7f6d9add125b2406"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 2,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.32/versions/1254",
+     "sha256": "2f7b952bc4874e043e891a46b4d19b58602314f9ba08384fc71bd78495a5723c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 2,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.32/versions/1341",
+     "sha256": "dad15f86b4bf3b59a6c563937d1b5cbf64c3d504a01679ca8f9276e49732f66c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/741.32",
+     "sha256": "c6c9b05b71f92f9c181b779d9f218b4280e00f029afaf391bb64039cd6233b89"
+    }
+   ]
+  },
+  {
+   "slug": "742-2-ev-uvg",
+   "short": "EV UVG",
+   "title": "Einführungsverordnung zum Bundesgesetz über die Unfallversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/742.2",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 10,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.2",
+     "sha256": "5e2c10497eccea417334f76ad1148ce22e9d5981b7e5b95022f53044fae5558a"
+    }
+   ]
+  },
+  {
+   "slug": "742-12",
+   "short": "NG 742.12",
+   "title": "Einführungsverordnung betreffend die Kostenübernahme bei Hospitalisation",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/742.12",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.12",
+     "sha256": "2d3cd8fe07a83686da9ee5b7fb844f1fcdfa915d6299ecf389106b1037f6799c"
+    }
+   ]
+  },
+  {
+   "slug": "742-15",
+   "short": "NG 742.15",
+   "title": "Vollzugsverordnung über den Datenaustausch für die Prämienverbilligung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/742.15",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.15",
+     "sha256": "fc7b17f6b0335226d51bc91fe9d59948632fb7162173fddc08887e710b937c52"
+    }
+   ]
+  },
+  {
+   "slug": "742-16-zulassungsverordnung-zulv",
+   "short": "Zulassungsverordnung, ZulV",
+   "title": "Verordnung betreffend die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/742.16",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.16/versions/1013",
+     "sha256": "cee667df8994c9b5cf6462bdeae3d80fdf3c5957a8c8b0f82067da3a3627de89"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.16/versions/1159",
+     "sha256": "a8b822ed26a14130061e15836930979fda42179a57de4706b0168b145abd75b2"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.16",
+     "sha256": "9732af1b67e99c3652834935d9e91acf9ff86c9020e58833e317de437c01f295"
+    }
+   ]
+  },
+  {
+   "slug": "742-111",
+   "short": "NG 742.111",
+   "title": "Verordnung zur Prämienverbilligung für das Jahr 2026",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/742.111",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.111/versions/729",
+     "sha256": "40c4304566419a3463c517a84cf6f4937f2c0047972369cb0318597b6215d0c2"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.111/versions/954",
+     "sha256": "77ecc767c5142408d63b948583d3af9756640ef7c83c06d250c779f67d693773"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.111/versions/1069",
+     "sha256": "d2b7284cffa3febb9d091cb39fb0486ead8398c4ec58846f977c82b997487fdb"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.111/versions/1224",
+     "sha256": "1e2f0320ddc3688406c6a347a4a42a4aa9daf03be527e4ef97a25d7fb3119032"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.111/versions/1344",
+     "sha256": "ae8ca69b8d44d42ef4d3a142c72dafde1df1f62337c98d684191fe73a6044baf"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.111",
+     "sha256": "472cb59a3f5d624e7e7d01ba0427d9027bc69da5c2350582515b06cfe3eee9e5"
+    }
+   ]
+  },
+  {
+   "slug": "742-112-pflegefinanzierungsverordnung-pfv",
+   "short": "Pflegefinanzierungsverordnung, PFV",
+   "title": "Verordnung zur Pflegefinanzierung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/742.112",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.112/versions/728",
+     "sha256": "864fbf4383a0703cce24c3373da46537f76441c4360faffb1e3dc1b2661ee41d"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.112/versions/963",
+     "sha256": "6853f034f1cfbb0b497ef04ec3949ed6e64ae1b45b0c53ddf1eabc0d8d98b0a0"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.112/versions/1295",
+     "sha256": "73dc193b0f419931f9a26365163e8fe23e63e6e91cc13bb629b6160e418f9bde"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.112",
+     "sha256": "995044dc1b4b8880f82329c5eee03b7a7f576270113fd3d80fafc88c40396369"
+    }
+   ]
+  },
+  {
+   "slug": "742-116-verlustscheinverordnung-vschv",
+   "short": "Verlustscheinverordnung, VSchV",
+   "title": "Vollzugsverordnung über die Verlustscheine in der obligatorischen Krankenpflegeversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/742.116",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/742.116",
+     "sha256": "98beefefa5d7060e3da6a763060a6a5da31f4b42c05647ad2e4a00d331ed5600"
+    }
+   ]
+  },
+  {
+   "slug": "744-1-arbeitslosenversicherungsverordnung-ev-avig",
+   "short": "Arbeitslosenversicherungsverordnung, EV AVIG",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/744.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/744.1",
+     "sha256": "f3a739cee519a0724a2bb36176f2355114d1262d839ea28ab948e46248a58f52"
+    }
+   ]
+  },
+  {
+   "slug": "751-21-kantonale-wohnbauverordnung-kwev",
+   "short": "Kantonale Wohnbauverordnung, kWEV",
+   "title": "Verordnung zum Gesetz über die Wohnbau- und Eigentumsförderung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/751.21",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/751.21",
+     "sha256": "388b188f1a37c10e70ed1ddb2f8084f3983973ef227c0ead2a9da306997f5a9e"
+    }
+   ]
+  },
+  {
+   "slug": "761-11-sozialhilfeverordnung-shv",
+   "short": "Sozialhilfeverordnung, SHV",
+   "title": "Verordnung zum Gesetz über die Sozialhilfe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/761.11",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 24,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.11/versions/761",
+     "sha256": "3b8b0c424e2a2bf3ada2c18b4f124571a2326d7995f9a9822806894fd39ab55f"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 24,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.11/versions/966",
+     "sha256": "bd6af6f9b3a99689b17c443f5e8d5e6dab13a7a26d1ca3b4121058bd9d563a86"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 24,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.11/versions/1099",
+     "sha256": "133b8ae843bc59d4719d84be237498a0f1df1093680b26f2406cf9aa172d84ae"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.11/versions/1176",
+     "sha256": "cf23b997926dff30ff0a74c32ed73e4878cc2de0aea8c7e5242c07568fd5911c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.11/versions/1343",
+     "sha256": "8998d428fddc2be46f29843df633189964223f717f2c072af2f17c02ec8fb5c7"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.11/versions/1361",
+     "sha256": "fe670f46941c512190dc8472f525a40ecd85c630a18612c38dd2eef8192c2bdf"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.11",
+     "sha256": "f0759ab10e4893cb2ce05a6614adca694a19f3883aabc26cbb4c8f2402cafa03"
+    }
+   ]
+  },
+  {
+   "slug": "761-21-betreuungsverordnung-betrv",
+   "short": "Betreuungsverordnung, BetrV",
+   "title": "Vollzugsverordnung zum Gesetz über die Angebote für Personen mit besonderen Betreuungsbedürfnissen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/761.21",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.21/versions/915",
+     "sha256": "6b2a6e6c85d8a559cd04f867572a7221fbf41c9303540d38e63fdb072b689904"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 22,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/761.21",
+     "sha256": "e4474e2e6e2f12700044a8e94f22a942d6ef11cbedee3bd9733e5c3b148dec01"
+    }
+   ]
+  },
+  {
+   "slug": "762-11-kantonale-familienzulagenverordnung-kfamzv",
+   "short": "Kantonale Familienzulagenverordnung, kFamZV",
+   "title": "Vollzugsverordnung zum kantonalen Familienzulagengesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/762.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/762.11",
+     "sha256": "0f25e7e8647217db2118f0f859256d77db6af58bbab0bec298d40c7f2614040c"
+    }
+   ]
+  },
+  {
+   "slug": "764-11-kantonale-kinderbetreuungsverordnung-kkibv",
+   "short": "Kantonale Kinderbetreuungsverordnung, kKiBV",
+   "title": "Vollzugsverordnung zum Kinderbetreuungsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/764.11",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/764.11",
+     "sha256": "63bfa92ff3fbb61beebffbfd97c503276e45663f1a997bd15e141049b7854fe8"
+    }
+   ]
+  },
+  {
+   "slug": "821-11-kantonale-landwirtschaftsverordnung-klwv",
+   "short": "Kantonale Landwirtschaftsverordnung, kLwV",
+   "title": "Verordnung zum Kantonalen Landwirtschaftsgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/821.11",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 48,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/821.11/versions/975",
+     "sha256": "da7c7367ab53a9fa3869667cbbb23b08d5d22905371efc59961f814a2003f0dd"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 46,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/821.11/versions/1026",
+     "sha256": "5ecc87ad06b372e2c665dfd479ea32997d3af64d123b931e74c9bde4e7778fb6"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 58,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/821.11",
+     "sha256": "7ff867b79837b263ac55c1a8be3b49ddb22e61dac8ffc3e2d83f914fb96343da"
+    }
+   ]
+  },
+  {
+   "slug": "821-12-weinverordnung",
+   "short": "Weinverordnung",
+   "title": "Vollzugsverordnung über die kontrollierte Ursprungsbezeichnung für Weine",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/821.12",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/821.12/versions/700",
+     "sha256": "12af126f963d124fc3efc219d4265de190bd1de3bed4b9a2cf98943af4af34e2"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 14,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/821.12",
+     "sha256": "ebfe58128666afd95545ef4e68996f1c40abf0ec83c591573d349131968241f2"
+    }
+   ]
+  },
+  {
+   "slug": "825-11-bauerliche-grundbesitzverordnung-bgbv",
+   "short": "Bäuerliche Grundbesitzverordnung, BGBV",
+   "title": "Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den bäuerlichen Grundbesitz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/825.11",
+   "versions": [
+    {
+     "from": "2018-02-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/825.11",
+     "sha256": "dff4e853d132aef2f33c0b9abe43c572c5d5c3ca389db5cae2e582af078d09fb"
+    }
+   ]
+  },
+  {
+   "slug": "826-31-hundeverordnung-huv",
+   "short": "Hundeverordnung, HuV",
+   "title": "Vollzugsverordnung zum Gesetz über das Halten von Hunden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/826.31",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/826.31",
+     "sha256": "d77f1f79e64bbd2c9a52f9bd3d74dd4ce39595ac9441daff860bc7e6cecf1e5f"
+    }
+   ]
+  },
+  {
+   "slug": "831-11-kantonale-waldverordnung-kwav",
+   "short": "Kantonale Waldverordnung, kWaV",
+   "title": "Vollzugsverordnung zum kantonalen Waldgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/831.11",
+   "versions": [
+    {
+     "from": "2020-11-01",
+     "units": 24,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/831.11/versions/693",
+     "sha256": "4e9c4f111a4a77ff4e0713e4219f745cf5d5da873c34f527eb85de4d562b3a5e"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 24,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/831.11/versions/1053",
+     "sha256": "0c50236b762bf72b92c50afd82b2f3eea982a8061f0b625c28e11bb9d4d5b2ca"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 24,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/831.11/versions/1150",
+     "sha256": "c2d8eee2d94c90453a6537b74bb8c5c0c21a88b510c1ba0738b1be276ef5923b"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 27,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/831.11",
+     "sha256": "ab7a486316f1666af81c800228f73acd0fab18fe27c23d16fb926ec6e664dda5"
+    }
+   ]
+  },
+  {
+   "slug": "841-11-kantonale-jagdverordnung-kjsv",
+   "short": "Kantonale Jagdverordnung, kJSV",
+   "title": "Vollzugsverordnung zum kantonalen Jagdgesetz",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/841.11",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 71,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.11/versions/805",
+     "sha256": "851fa27f2970f964382d44506e4248571ee886ef1cb30fdaee5514fca638df51"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 71,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.11/versions/998",
+     "sha256": "40fed123b99d00561f27f1b3bbb3e68c82edc5b27bc85993d18c5554a0b64208"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 71,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.11/versions/1151",
+     "sha256": "c5c524bcb2be71b211e7f809c6f650a7e0bebed671c8f6a1677385226dd20140"
+    },
+    {
+     "from": "2024-05-15",
+     "units": 71,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.11",
+     "sha256": "18085f473ddcab8eda6445bb34201f70f5c0d57ed6f8d2de60ca47c7dc3c153b"
+    }
+   ]
+  },
+  {
+   "slug": "841-12-jagdprufungsverordnung-jpv",
+   "short": "Jagdprüfungsverordnung, JPV",
+   "title": "Vollzugsverordnung über den Jagdlehrgang und die Jagdprüfung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/841.12",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.12",
+     "sha256": "d0709f82011bf1783c1fa5f8ed2084731aec4104cb59177bebe5c658507843cf"
+    }
+   ]
+  },
+  {
+   "slug": "841-13-wildschadenverordnung",
+   "short": "Wildschadenverordnung",
+   "title": "Vollzugsverordnung über die Beiträge an Abwehrmassnahmen sowie die Schatzung und Vergütung von Wildschäden",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/841.13",
+   "versions": [
+    {
+     "from": "2008-06-15",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.13/versions/690",
+     "sha256": "c44986a0e061904bb818ff98bb5d265a51ba44d73b219ced6b9c79adf190dfd7"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 25,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.13",
+     "sha256": "9d3efd57c46d3cc3155e4e20dc3709a7e270599e7fb95823b5eaa758d1bfef87"
+    }
+   ]
+  },
+  {
+   "slug": "841-14-kantonale-steinwildverordnung-kstwv",
+   "short": "Kantonale Steinwildverordnung, kStWV",
+   "title": "Verordnung über die Regulierung von Steinwildbeständen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/841.14",
+   "versions": [
+    {
+     "from": "2016-05-01",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.14/versions/1077",
+     "sha256": "d7197a0f55aff32ab7b6d898819fd138d26c1538db3d20f520c6cbb732d3e301"
+    },
+    {
+     "from": "2024-05-15",
+     "units": 26,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.14",
+     "sha256": "c0879ae718c03bf6af85f892ab46c3b372c5016193d82b5ef092315ff1449ef7"
+    }
+   ]
+  },
+  {
+   "slug": "841-15",
+   "short": "NG 841.15",
+   "title": "Verordnung über die Wildruhegebiete",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/841.15",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 30,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.15",
+     "sha256": "abcafde8f4e733849cdbbef1c9d091781ccd84d6d65f481bb3f67076b8c24fc7"
+    }
+   ]
+  },
+  {
+   "slug": "841-16-wsgv",
+   "short": "WSGV",
+   "title": "Verordnung über die zeitlich befristeten Wildschutzgebiete",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/841.16",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/841.16",
+     "sha256": "a0825d2f1a59d00c66ee5c31e834ad9e538486299ccd8f76c801f58bce93d7f2"
+    }
+   ]
+  },
+  {
+   "slug": "842-11-fischereiverordnung-kfv",
+   "short": "Fischereiverordnung, kFV",
+   "title": "Verordnung zum Einführungsgesetz zum Bundesgesetz über die Fischerei",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/842.11",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 68,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/842.11/versions/687",
+     "sha256": "ca97028b52e0c084a5eb4970d6eb07ff8ed12989bef029c28c4aaae6087af6a0"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 19,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/842.11",
+     "sha256": "ef57419ac09db8f96825e1add6394f4df4dc1f309481fae2075bc228ec1348d5"
+    }
+   ]
+  },
+  {
+   "slug": "852-11-bergregalverordnung-brv",
+   "short": "Bergregalverordnung, BRV",
+   "title": "Vollziehungsverordnung zum Gesetz über die Gewinnung mineralischer Rohstoffe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/852.11",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/852.11/versions/683",
+     "sha256": "66a482afba71397a65fb8504bc47ecde4aac3cd6d7acb8390df3bd124ec2c4c1"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 17,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/852.11",
+     "sha256": "c9d4415cd27f93fb221ffa648527669d60bc88936b7b7403aef4b6470ab20856"
+    }
+   ]
+  },
+  {
+   "slug": "854-11-gastgewerbeverordnung-ggv",
+   "short": "Gastgewerbeverordnung, GGV",
+   "title": "Vollzugsverordnung zum Gesetz über das Gastgwerbe und den Handel mit alkoholischen Getränken",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/854.11",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/854.11",
+     "sha256": "0001f0d4a26133ab5a26b6a359df2d8b33363e92bf492d133ce2a792bc14cb19"
+    }
+   ]
+  },
+  {
+   "slug": "855-11-kantonale-risikoaktivitatenverordnung-kriskv",
+   "short": "Kantonale Risikoaktivitätenverordnung, kRiskV",
+   "title": "Einführungsverordnung zum Bundesgesetz über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/855.11",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/855.11",
+     "sha256": "7887b2085affbc20fdb58c1174c8d3f89b461b0ca9e5f8e0abc8e31f29dfe0fa"
+    }
+   ]
+  },
+  {
+   "slug": "862-1-kantonale-messwesenverordnung-kmwv",
+   "short": "Kantonale Messwesenverordnung, kMWV",
+   "title": "Einführungsverordnung zur Bundesgesetzgebung über das Messwesen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/862.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/862.1",
+     "sha256": "d6c046e67c71c72fb24fec67831ed782a44f11e36059c272708c4301accf7138"
+    }
+   ]
+  },
+  {
+   "slug": "866-31-konsumkreditverordnung",
+   "short": "Konsumkreditverordnung",
+   "title": "Einführungsverordnung zum Bundesgesetz über den Konsumkredit",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/866.31",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 5,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/866.31",
+     "sha256": "8f31ed6aba9d2dc0e53b8d87cfe949df5375f3400001842f7bd10d673b180c3d"
+    }
+   ]
+  },
+  {
+   "slug": "866-112-partizipations-reglement",
+   "short": "Partizipations-Reglement",
+   "title": "Reglement über die Ausgabe von Partizipationsscheinen der Nidwaldner Kantonalbank",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/866.112",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/866.112",
+     "sha256": "ea21f4dd7bab93cc5cec35e8541c98d4b8d6c6b652573fe1aa29d2749340d514"
+    }
+   ]
+  },
+  {
+   "slug": "867-11-sachversicherungsverordnung-nsvv",
+   "short": "Sachversicherungsverordnung, NSVV",
+   "title": "Vollzugsverordnung zum Gesetz über die Nidwaldner Sachversicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/867.11",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 31,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/867.11",
+     "sha256": "7d1621d1e2bc1af8877c3769f7e0c20397eeaa139ad68b46be959e81db2e1bb2"
+    }
+   ]
+  },
+  {
+   "slug": "867-111-pramienreglement",
+   "short": "Prämienreglement",
+   "title": "Reglement über die Prämien und Abgaben sowie den Selbstbehalt in der obligatorischen Versicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/867.111",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 13,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/867.111",
+     "sha256": "d4964683da955d3e9f35ec8a7cf9552630b600d58cd91ba1397c82d556e2910e"
+    }
+   ]
+  },
+  {
+   "slug": "867-112",
+   "short": "NG 867.112",
+   "title": "Reglement über die freiwillige Versicherung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/867.112",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/867.112",
+     "sha256": "61de47626177aadc612ae1a11ae74fab5b78983453bba441c02be6fa2bec3504"
+    }
+   ]
+  },
+  {
+   "slug": "867-113-schatzungs-und-schadenreglement",
+   "short": "Schätzungs- und Schadenreglement",
+   "title": "Reglement über die Schätzung und Schadenregelung",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/867.113",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 39,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/867.113",
+     "sha256": "5fc678410d053b60bd705f66003b33001ab418dde5f06adae4694531474b226d"
+    }
+   ]
+  },
+  {
+   "slug": "867-114-elementarschadenpraventionsreglement",
+   "short": "Elementarschadenpräventionsreglement",
+   "title": "Reglement über die Beitragsleistungen an die Elementarschadenprävention",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/867.114",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 12,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/867.114",
+     "sha256": "2cca1745d01c3befbe51df3c040c934247da044a9873769ff2cafb13549325c2"
+    }
+   ]
+  },
+  {
+   "slug": "911-11-polizeiverordnung-polv",
+   "short": "Polizeiverordnung, PolV",
+   "title": "Verordnung zum Gesetz über das Polizeiwesen",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/911.11",
+   "versions": [
+    {
+     "from": "2014-11-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/911.11/versions/665",
+     "sha256": "3856a98ea15aebb792a8464edc0e764cd80dda9686da889d72c5abcfbabf430f"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 40,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/911.11",
+     "sha256": "af092bda5e5eef04eacbbebba4f8d4a21f1aa5213d4ff7e6fda1d85ab0d5bd26"
+    }
+   ]
+  },
+  {
+   "slug": "922-1",
+   "short": "NG 922.1",
+   "title": "Verordnung über das Baden in öffentlichen Gewässern",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/922.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 18,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/922.1",
+     "sha256": "adf93994742a697d8fd4a4b59b20fefba7d83b6fadd4a689f0e3995bc0fd0dff"
+    }
+   ]
+  },
+  {
+   "slug": "923-11",
+   "short": "NG 923.11",
+   "title": "Einführungsverordnung zur Gesetzgebung über Massnahmen zur Wahrung der inneren Sicherheit",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/923.11",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/923.11",
+     "sha256": "a576ac9ec6a836d4bbcbd7cd6c30cd28e8bf8e553eb91d627629bb9c78862433"
+    }
+   ]
+  },
+  {
+   "slug": "931-1-kantonale-waffenverordnung-kwv",
+   "short": "Kantonale Waffenverordnung, kWV",
+   "title": "Einführungsverordnung zum Bundesgesetz über Waffen, Waffenzubehör und Munition",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/931.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 6,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/931.1",
+     "sha256": "8521966985d90203d8b0a9d9e874c97ff0ce9bc6fe94e5e15e94131252c76276"
+    }
+   ]
+  },
+  {
+   "slug": "931-21-kantonale-sprengstoffverordnung-ksprstv",
+   "short": "Kantonale Sprengstoffverordnung, kSprstV",
+   "title": "Verordnung zum Bundesgesetz über Sprengstoffe",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/931.21",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 7,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/931.21",
+     "sha256": "f430dcf9967acefa1024e66d906a2c107f3661458ae2bdb3467cacf45c2601f2"
+    }
+   ]
+  },
+  {
+   "slug": "932-11-kantonale-geldspielverordnung-kgspv",
+   "short": "Kantonale Geldspielverordnung, kGSpV",
+   "title": "Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über Geldspiele",
+   "url": "https://gesetze.nw.ch/app/de/texts_of_law/932.11",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 16,
+     "source_url": "https://gesetze.nw.ch/api/de/texts_of_law/932.11",
+     "sha256": "03213c4449093da24c7729587c563975af67080653016104c9676be870f274f4"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "path": "ch-nw",
+  "code": "CH-NW",
+  "name": "Nidwalden",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-nidwalden-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (266 acts, 482 versions) from the NG",
+  "language": "de",
+  "sources": 1
+}
