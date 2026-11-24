@@ -9,7 +9,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 ### Nidwalden: systematic collection (gesetze.nw.ch) · `switzerland/nidwalden/acts`
 
 - The official source last read and every act held here checked against it: **not yet**.
-- Acts held here: 266; current at the source: 266; changed at the source since the version held here: 133; no longer at the source: 0.
+- Acts held here: 266; current at the source: 266; changed at the source since the version held here: 132; no longer at the source: 0.
 - Compared with the source in this read: 38 of the 266 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 134 (new at the source, not published here yet: 132, held here, no longer at the source: 1, in force later: 1); with no reason: 0.
 

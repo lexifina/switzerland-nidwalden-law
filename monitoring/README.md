@@ -6,7 +6,7 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Nidwalden: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 12:19 UTC, Nidwalden: Systematische Sammlung (gesetze.nw.ch): 392 Adressen gelesen; 133 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 134 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-24 15:00 UTC, Nidwalden: Systematische Sammlung (gesetze.nw.ch): 173 Adressen gelesen; 132 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 134 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
@@ -18,6 +18,7 @@ Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.co
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:57](checks/2026-11.md#ch-lexwork-nidwalden-20261124t145748z) | lexwork-nidwalden | 173 | 132 | 0 | 0 | 134 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 12:12](checks/2026-11.md#ch-lexwork-nidwalden-20261124t121218z) | lexwork-nidwalden | 392 | 133 | 0 | 0 | 134 (0) | die Prüfung ist fehlgeschlagen | — |
 
 ## Selbst prüfen

@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T12:19:31Z",
+ "generated": "2026-11-24T15:05:17Z",
  "latest": {
   "lexwork-nidwalden|switzerland/nidwalden/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "checked": 38,
@@ -11,26 +11,26 @@
     "held": 266,
     "not_at_source": 1,
     "out_of_scope": 2,
-    "pending": 133,
+    "pending": 132,
     "repo": 266,
-    "source_in_scope": 399
+    "source_in_scope": 398
    },
-   "check_id": "ch-lexwork-nidwalden-20261124T121218Z",
+   "check_id": "ch-lexwork-nidwalden-20261124T145748Z",
    "commits": null,
    "corpus": "switzerland/nidwalden/acts",
-   "error": "ValueError: no published commit for 161-3-entschadigungsgesetz-entschg/art-001.md from 2027-01-01",
-   "finished": "2026-11-24T12:19:30Z",
+   "error": "RuntimeError: the kit's append gate: error: published head bbc59376b636d6a2612c0aa6191dc605d77cfbd6 timestamp 1795522772 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T15:00:51Z",
    "flags": [],
    "gap": 134,
-   "note": "gesetze.nw.ch: index of 401 acts (401 in force); held 266; 133 in force and in scope not held yet, 2 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 38 held acts compared with the collection this check (every one within 7 days); 133 candidate acts read",
+   "note": "gesetze.nw.ch: index of 401 acts (401 in force); held 266; 132 in force and in scope not held yet, 2 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 38 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 392,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 173,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -130,7 +130,6 @@
      "742.13",
      "742.14",
      "742.113",
-     "742.114",
      "742.114.1",
      "742.115",
      "742.117",
@@ -173,7 +172,7 @@
    },
    "snapshot": "401 entries, 401 in force (gesetze.nw.ch)",
    "source": "lexwork-nidwalden",
-   "started": "2026-11-24T12:12:18Z",
+   "started": "2026-11-24T14:57:48Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -183,7 +182,7 @@
     "parts": [
      "95-watch-20261124-000-new.json"
     ],
-    "pdf_only": 1,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },

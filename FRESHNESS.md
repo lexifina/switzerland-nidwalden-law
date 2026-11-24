@@ -9,7 +9,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 ### Nidwalden: Systematische Sammlung (gesetze.nw.ch) · `switzerland/nidwalden/acts`
 
 - Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **noch nicht**.
-- Vorschriften hier: 266; aktuell gegenüber der Quelle: 266; an der Quelle geändert seit der Fassung hier: 133; nicht mehr an der Quelle: 0.
+- Vorschriften hier: 266; aktuell gegenüber der Quelle: 266; an der Quelle geändert seit der Fassung hier: 132; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 38 der 266 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 134 (neu an der Quelle, hier noch nicht veröffentlicht: 132, hier vorhanden, an der Quelle nicht mehr: 1, tritt später in Kraft: 1); ohne Grund: 0.
 

@@ -21,6 +21,7 @@
     "switzerland/nidwalden/acts"
    ],
    "interval": 1.0,
+   "group": "lexwork",
    "repo": "switzerland-nidwalden-law"
   }
  ]
