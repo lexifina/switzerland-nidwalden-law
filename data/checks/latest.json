@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:19:24Z",
+ "generated": "2026-11-27T07:13:24Z",
  "latest": {
   "lexwork-nidwalden|switzerland/nidwalden/acts": {
    "attempt": 1,
@@ -23,18 +23,18 @@
     "repo": 398,
     "source_in_scope": 398
    },
-   "check_id": "ch-lexwork-nidwalden-20261126T063336Z",
+   "check_id": "ch-lexwork-nidwalden-20261127T063344Z",
    "commits": null,
    "corpus": "switzerland/nidwalden/acts",
    "error": null,
-   "finished": "2026-11-26T06:35:05Z",
+   "finished": "2026-11-27T06:36:41Z",
    "flags": [
     {
-     "detail": "5 of 116 texts differ from the source",
+     "detail": "11 of 132 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 2,
+   "gap": 3,
    "note": "gesetze.nw.ch: index of 401 acts (401 in force); held 398; 0 in force and in scope not held yet, 2 out of scope (land-use plans, concessions, directives, forms: as the builder), 1 published only as PDF; 61 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 74,
+   "requests": 169,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "401 entries, 401 in force (gesetze.nw.ch)",
    "source": "lexwork-nidwalden",
-   "started": "2026-11-26T06:33:36Z",
+   "started": "2026-11-27T06:33:44Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -67,11 +67,14 @@
    "verify": {
     "cycle_days": 7,
     "examples": [
-     "312.11 (312-11-volksschulverordnung-vsv): 2025-08-01",
-     "263.2 (263-2): 2020-01-01",
+     "511.1 (511-1-finanzhaushaltgesetz-kfhg): 2016-10-01",
+     "521.1 (521-1-steuergesetz-stg): 2023-01-01, 2025-01-01",
+     "521.11 (521-11-steuerverordnung-stv): 2025-01-01",
+     "611.11 (611-11-planungs-und-bauverordnung-pbv): 2020-11-01",
      "611.111 (611-111): 2025-01-01",
-     "742.118 (742-118): 2026-01-01",
-     "841.111 (841-111): 2025-06-02"
+     "621.11 (621-11-kantonale-nationalstrassenverordnung-knsv): 2021-11-01",
+     "631.11 (631-11-gewasserverordnung-gewv): 2022-07-01",
+     "312.11 (312-11-volksschulverordnung-vsv): 2025-08-01"
     ],
     "held": 398,
     "method": "each act compared this check (61 of 398: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from gesetze.nw.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
@@ -79,8 +82,8 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 61,
-    "versions_checked": 116,
-    "versions_differ": 5
+    "versions_checked": 132,
+    "versions_differ": 11
    }
   }
  },
